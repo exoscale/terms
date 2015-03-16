@@ -287,7 +287,7 @@ Service Fees for the affected Services
 The credit will be calculated based on the monthly service charge 
 for the affected Services. The Client shall address a Service 
 Unavailability Credit request within ten (10) business days via 
-email to sales@exoscale.ch mentionning the Client name and address 
+email to sales@exoscale.ch mentioning the Client name and address 
 as well as the times and dates of the unavailability. If the 
 unavailability is confirmed by the Supplier, credits will be applied 
 within two billing cycles after Supplier’s receipt of Client’s 
