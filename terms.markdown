@@ -3,7 +3,7 @@ into between Client and Supplier for the provision of IaaS Cloud
 Computing Services. Supplier and Client are hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
 
-Applicable starting April 15th, 2015
+Applicable starting June 1st, 2015
 [Previous version](https://github.com/exoscale/terms/blob/master/terms-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master)
 
