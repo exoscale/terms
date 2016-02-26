@@ -235,8 +235,11 @@ dispute the charges not disputed within the time frame set forth above.
 
 ### 3.7 Trial Credit
 
-Trial credit is not redeemable for cash or credit, not transferable and is valid for new accounts only. It may not be used in conjunction with other offers or promotions and is issued on a case-by-case evaluation.
-Trial alue is always based on CHF. When promoted in printed or written forms in values different by CHF, as in promotional cards, flyers, digital communications like newslettes, tweets or any other form of digital or phisical communication, the actual credit may vary in function of the exchange rate. Trial credit may be billed differently, may vary and be revoked without previous or further notice.
+Trial credit is not redeemable for cash or credit, not transferable and is valid for new accounts only, and limited to one per person. It may not be used in conjunction with other offers or promotions and is issued on a case-by-case evaluation. Trial credit may be billed differently, may vary and be revoked without previous or further notice. Trial value is always based on CHF. When promoted in printed or written forms in other currencies than CHF, as in promotional cards, flyers, digital communications like newsletters, tweets, or any other form of digital or physical communication, the actual credit may vary in function of the exchange rate. During Trial period, features and technical limitations may incur, including, but no limited to:
+
+- Maximum number of virtual machines
+
+- Network performances
 
 
 ## 4. Service Level Agreement (SLA)
