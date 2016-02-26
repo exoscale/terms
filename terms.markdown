@@ -233,6 +233,12 @@ claim. All claims must be submitted to Supplier within thirty (30) days
 of receipt of billing for those Services. Client waives the right to
 dispute the charges not disputed within the time frame set forth above.
 
+### 3.7 Trial Credit
+
+Trial credit is not redeemable for cash or credit, not transferable and is valid for new accounts only. It may not be used in conjunction with other offers or promotions and is issued on a case-by-case evaluation.
+Trial alue is always based on CHF. When promoted in printed or written forms in values different by CHF, as in promotional cards, flyers, digital communications like newslettes, tweets or any other form of digital or phisical communication, the actual credit may vary in function of the exchange rate. Trial credit may be billed differently, may vary and be revoked without previous or further notice.
+
+
 ## 4. Service Level Agreement (SLA)
 
 ### 4.1 Service Availability Targets
