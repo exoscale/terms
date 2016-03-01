@@ -3,6 +3,10 @@ into between Client and Supplier for the provision of IaaS Cloud
 Computing Services. Supplier and Client are hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
 
+Applicable starting June 1st, 2015
+[Previous version](https://github.com/exoscale/terms/blob/master/terms-previous.markdown)
+[Compare](https://github.com/exoscale/terms/commits/master)
+
 ## 1. Definitions
 
 "**Agreement**" means any Order and these Terms and Conditions
@@ -268,6 +272,28 @@ Supplier shall provide platform usage support as follows:
 - Start, Stop, Reboot: within one (1) hour from receipt of request.
 
 The platform usage support shall be free of charge.
+
+### 4.4 Service Unavailability Credit
+
+Except under the conditions mentioned in the section 4.1 above, 
+if the Services Availability is less than 99.95%, the Supplier will 
+issue a credit to Client according to the following table:
+
+- From 99.95% to 98.3% : fifty percent (50%) of the monthly 
+Service Fees for the affected Services
+- Below 98.3% : one hundred percent (100%) of the monthly 
+Service Fees for the affected Services
+
+The credit will be calculated based on the monthly service charge 
+for the affected Services. The Client shall address a Service 
+Unavailability Credit request within ten (10) business days via 
+email to sales@exoscale.ch mentioning the Client name and address 
+as well as the times and dates of the unavailability. If the 
+unavailability is confirmed by the Supplier, credits will be applied 
+within two billing cycles after Supplier’s receipt of Client’s 
+credit request. Credits are not refundable and can be used only 
+towards future billing charges.
+
 
 ## 5. Use of the Services
 
