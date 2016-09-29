@@ -181,34 +181,35 @@ providing the Services to the Client.
 
 The Client may make a deposit as an advance payment of Service Fees.
 Such deposit will be credited on its account for the payment of future
-Services. Upon Supplier's request, Client will make a deposit, or other
-security for the payment of Service Fees as specified by Supplier, (i)
-as a condition to Supplier's acceptance of any Order, or (ii) in the
-event Client fails to comply with the payment terms set forth in Section
-3.2 twice in any twelve (12) month period, as a condition to Supplier's
-continuation of delivery of any Service. The deposit will be held by
-Supplier as security for payment of the Service Fees. When Service to
-Client is terminated, the amount of the deposit will be credited to
-Client's account and *any remaining credit balance will be refunded
-within thirty (30) days of such termination minus administration fees. Client shall be subject to
-the credit limit ("**Credit Limit**") as may be specified in the
-Order(s).* The Credit Limit may be varied only with the written approval
-of Supplier. Supplier shall have the right at any time to increase or
-decrease the Credit Limit by giving at least three (3) days prior
-written notice to Client. If at any time Supplier determines that the
-sum ("**Accrued Liability**") of (i) total invoiced amounts which remain
-unpaid, plus (ii) the unbilled but accrued usage of Client, has exceeded
-the then current Credit Limit, Supplier shall have the right to demand
-by written notice that Client make an immediate payment to Supplier by
+Services. Upon Supplier's request, Client will make a deposit, or
+other security for the payment of Service Fees as specified by
+Supplier, (i) as a condition to Supplier's acceptance of any Order, or
+(ii) in the event Client fails to comply with the payment terms set
+forth in Section 3.2 twice in any twelve (12) month period, as a
+condition to Supplier's continuation of delivery of any Service. The
+deposit will be held by Supplier as security for payment of the
+Service Fees. When Service to Client is terminated, the amount of the
+deposit will be credited to Client's account and *any remaining credit
+balance will be refunded within thirty (30) days of such termination
+minus administration fees. Client shall be subject to the credit limit
+("**Credit Limit**") as may be specified in the Order(s).* The Credit
+Limit may be varied only with the written approval of Supplier.
+Supplier shall have the right at any time to increase or decrease the
+Credit Limit by giving at least three (3) days prior written notice to
+Client. If at any time Supplier determines that the sum ("**Accrued
+Liability**") of (i) total invoiced amounts which remain unpaid, plus
+(ii) the unbilled but accrued usage of Client, has exceeded the then
+current Credit Limit, Supplier shall have the right to demand by
+written notice that Client make an immediate payment to Supplier by
 electronic transfer (or such other method as agreed by the Parties) of
 such amount required: (i) to reduce its aggregate Accrued Liability to
 less than the Credit Limit, and (ii) to ensure that the Credit Limit
 shall not be exceeded prior to the next invoice due date. Upon such
-demand, the demanded amount shall become immediately due and payable and
-Client shall pay such amount within twenty-four (24) hours of its
-receipt of such notice. If Client fails to remit such payment when due,
-Supplier shall have the right without further notice to suspend and/or
-terminate the Services.
+demand, the demanded amount shall become immediately due and payable
+and Client shall pay such amount within twenty-four (24) hours of its
+receipt of such notice. If Client fails to remit such payment when
+due, Supplier shall have the right without further notice to suspend
+and/or terminate the Services.
 
 ### 3.5 Taxes
 
