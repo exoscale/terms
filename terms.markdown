@@ -3,7 +3,7 @@ into between Client and Supplier for the provision of IaaS Cloud
 Computing Services. Supplier and Client are hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
 
-Applicable starting April 1st, 2016
+Applicable starting October 1st, 2016
 [Previous version](https://github.com/exoscale/terms/blob/master/terms-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master)
 
@@ -190,7 +190,7 @@ continuation of delivery of any Service. The deposit will be held by
 Supplier as security for payment of the Service Fees. When Service to
 Client is terminated, the amount of the deposit will be credited to
 Client's account and *any remaining credit balance will be refunded
-within thirty (30) days of such termination. Client shall be subject to
+within thirty (30) days of such termination minus administration fees. Client shall be subject to
 the credit limit ("**Credit Limit**") as may be specified in the
 Order(s).* The Credit Limit may be varied only with the written approval
 of Supplier. Supplier shall have the right at any time to increase or
