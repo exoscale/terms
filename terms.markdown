@@ -97,7 +97,7 @@ provisions describing the service level targets as set out in Section 4.
 "**Software**" means any software application provided by Supplier which
 Client may be entitled to use in accordance with any Order.
 
-"**Supplier**" means Akenes SA, 4 avenue de Provence, 1007 Lausanne,
+"**Supplier**" means Akenes SA, Route de Marcolet 39, 1023 Crissier,
 Switzerland.
 
 "**Supplier Network**" means the telecommunication network, including
@@ -798,7 +798,7 @@ registered mail or courier, to the following address:
 
 Akenes SA
 Att. exoscale Manager
-4, avenue de Provence, 1007 Lausanne, Switzerland
+Route de Marcolet 39, 1023 Crissier, Switzerland
 
 
 Email: manager@exoscale.ch
