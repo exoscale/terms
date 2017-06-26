@@ -3,7 +3,7 @@ into between Client and Supplier for the provision of IaaS Cloud
 Computing Services. Supplier and Client are hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
 
-Applicable starting April 1st, 2016
+Applicable starting July 1st, 2017
 [Previous version](https://github.com/exoscale/terms/blob/master/terms-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master)
 
@@ -324,8 +324,10 @@ connection with Client support matters.
 Client acknowledges and agrees that Supplier shall not be responsible
 for any Data stored by Client using the Services. Notwithstanding the
 above, Client may copy such Data using the Services to a separate
-location at any time. The Data stored by Client shall at all times be
-stored solely in Switzerland.
+location at any time. The Data stored by Client in Switzerland shall 
+at all times be stored solely in Switzerland. Likewise, data stored
+by Client in another non-Swiss Exoscale location shall remain at all 
+times in the same country as the base location.
 
 Because the Internet is an inherently open and insecure means of
 communication, any Data a User transmits over the Internet may be
