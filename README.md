@@ -9,6 +9,4 @@ The repository is structured as follow:
 
 An archive folder is also published to track older differences from the files.
 
-The terms and conditions are published under the [exoscale website](https://www.exoscale.ch/terms/)
-
-
+The terms and conditions are published under the [exoscale website](https://www.exoscale.com/terms/)
