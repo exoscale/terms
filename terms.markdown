@@ -129,7 +129,7 @@ Multiprotocol Label Switching) from the Exoscale Service platform); and
 "**Unavailability**" means accordingly.
 
 "**Website**" means the Exoscale Service website available at
-https://portal.exoscale.ch.
+https://portal.exoscale.com.
 
 ## 2. The Services
 
@@ -718,12 +718,12 @@ Supplier shall have the right, upon written notice, to immediately
 terminate and/or suspend any Order(s) and/or the delivery of the
 Services (without liability) in the event that:
 
-*	a) Client has violated (i) any law rule, regulation or directive of any Governmental Authority related to the Services
-	or Client's or a User's use thereof or (ii) Section 5 (Use of the Services); or
+*   a) Client has violated (i) any law rule, regulation or directive of any Governmental Authority related to the Services
+    or Client's or a User's use thereof or (ii) Section 5 (Use of the Services); or
 
-*	b) Supplier receives any direction, notification or instruction from any Governmental Authority
-	(or any independent Internet content monitoring entity) to suspend or terminate the provision
-	of the Services to Client (through no fault or negligence of Supplier).
+*   b) Supplier receives any direction, notification or instruction from any Governmental Authority
+    (or any independent Internet content monitoring entity) to suspend or terminate the provision
+    of the Services to Client (through no fault or negligence of Supplier).
 
 ### 13.4 Supplier's Remedies
 
