@@ -3,7 +3,7 @@ into between Client and Supplier for the provision of IaaS Cloud
 Computing Services. Supplier and Client are hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
 
-Applicable starting April 1st, 2016
+Applicable starting July 1st, 2017
 [Previous version](https://github.com/exoscale/terms/blob/master/terms-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master)
 
@@ -97,7 +97,7 @@ provisions describing the service level targets as set out in Section 4.
 "**Software**" means any software application provided by Supplier which
 Client may be entitled to use in accordance with any Order.
 
-"**Supplier**" means Akenes SA, 4 avenue de Provence, 1007 Lausanne,
+"**Supplier**" means Akenes SA, Route de Marcolet 39, 1023 Crissier,
 Switzerland.
 
 "**Supplier Network**" means the telecommunication network, including
@@ -129,7 +129,7 @@ Multiprotocol Label Switching) from the Exoscale Service platform); and
 "**Unavailability**" means accordingly.
 
 "**Website**" means the Exoscale Service website available at
-https://portal.exoscale.ch.
+https://portal.exoscale.com.
 
 ## 2. The Services
 
@@ -324,8 +324,10 @@ connection with Client support matters.
 Client acknowledges and agrees that Supplier shall not be responsible
 for any Data stored by Client using the Services. Notwithstanding the
 above, Client may copy such Data using the Services to a separate
-location at any time. The Data stored by Client shall at all times be
-stored solely in Switzerland.
+location at any time. The Data stored by Client in Switzerland shall 
+at all times be stored solely in Switzerland. Likewise, data stored
+by Client in another non-Swiss Exoscale location shall remain at all 
+times in the same country as the base location.
 
 Because the Internet is an inherently open and insecure means of
 communication, any Data a User transmits over the Internet may be
@@ -716,12 +718,12 @@ Supplier shall have the right, upon written notice, to immediately
 terminate and/or suspend any Order(s) and/or the delivery of the
 Services (without liability) in the event that:
 
-*	a) Client has violated (i) any law rule, regulation or directive of any Governmental Authority related to the Services
-	or Client's or a User's use thereof or (ii) Section 5 (Use of the Services); or
+*   a) Client has violated (i) any law rule, regulation or directive of any Governmental Authority related to the Services
+    or Client's or a User's use thereof or (ii) Section 5 (Use of the Services); or
 
-*	b) Supplier receives any direction, notification or instruction from any Governmental Authority
-	(or any independent Internet content monitoring entity) to suspend or terminate the provision
-	of the Services to Client (through no fault or negligence of Supplier).
+*   b) Supplier receives any direction, notification or instruction from any Governmental Authority
+    (or any independent Internet content monitoring entity) to suspend or terminate the provision
+    of the Services to Client (through no fault or negligence of Supplier).
 
 ### 13.4 Supplier's Remedies
 
@@ -798,7 +800,7 @@ registered mail or courier, to the following address:
 
 Akenes SA
 Att. exoscale Manager
-4, avenue de Provence, 1007 Lausanne, Switzerland
+Route de Marcolet 39, 1023 Crissier, Switzerland
 
 
 Email: manager@exoscale.ch
