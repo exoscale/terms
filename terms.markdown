@@ -362,23 +362,20 @@ Client's network security.
 ### 5.4 Misuse of the Services
 
 
-Client shall not (i) make the Services available to anyone other than
-Users, (ii) sell, resell, rent or lease the Services, (iii) use the
-Services to store or transmit defamatory, abusive, excessively violent,
-obscene, libelous, or otherwise unlawful or tortuous material or
-messages, or to store or transmit material or messages in violation of
-third-party privacy rights, (iv) use the Services to store or transmit
-Malicious Codes, (v) interfere with or disrupt the integrity or
-performance of the Services or third-party data contained therein, or
-(vi) attempt to gain unauthorised access to the Services or their
-related systems or networks, (vii) transmit or distribute material
-containing fraudulent offers for goods or services, or any advertising
-or promotional materials that contain false, deceptive or misleading
-statements or representations, or (viii) transmit or distribute
-unsolicited e-mail messages where such e-mail messages could reasonably
-be expected to provoke complaints (spam), all of which as reasonably
-determined by Supplier in accordance with generally accepted standards
-of the Internet community.
+Client shall not (i) make the Services available to anyone other than Users,
+(ii) sell, resell, rent or lease the Services, (iii) use the Services to store
+or transmit unlawful material or messages, or to store or transmit material or
+messages in violation of third-party privacy rights, (iv) use the Services to
+store or transmit Malicious Codes, (v) interfere with or disrupt the integrity
+or performance of the Services or third-party data contained therein, or (vi)
+attempt to gain unauthorised access to the Services or their related systems
+or networks, (vii) transmit or distribute material containing fraudulent
+offers for goods or services, or any advertising or promotional materials
+that contain false, deceptive or misleading statements or representations, or
+(viii) transmit or distribute unsolicited e-mail messages where such e-mail
+messages could reasonably be expected to provoke complaints (spam), all of
+which as reasonably determined by Supplier in accordance with generally
+accepted standards of the Internet community.
 
 ### 5.5 Unauthorized or Fraudulent Use of the Services
 
