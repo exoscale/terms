@@ -94,7 +94,7 @@ software products that are provided by entities or individuals other
 than Exoscale and are clearly identified as such, and that interoperate
 with the Services.
 
-“Order” means the order within the active subscription submitted by
+“**Order**” means the order within the active subscription submitted by
 Client to Exoscale (for example via the Exoscale Website), setting out
 matters relating to Exoscale’s delivery of Services to Client.
 
