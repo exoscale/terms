@@ -3,7 +3,7 @@ into between Client and Supplier for the provision of IaaS Cloud
 Computing Services. Supplier and Client are hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
 
-Applicable starting May 25th, 2018
+Applicable starting January 16th, 2019
 [Previous version](https://github.com/exoscale/terms/blob/master/terms-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master)
 
@@ -97,7 +97,7 @@ provisions describing the service level targets as set out in Section 4.
 "**Software**" means any software application provided by Supplier which
 Client may be entitled to use in accordance with any Order.
 
-"**Supplier**" means Akenes SA, Route de Marcolet 39, 1023 Crissier,
+"**Supplier**" means Akenes SA, Boulevard de Grancy 19A, 1006 Lausanne,
 Switzerland.
 
 "**Supplier Network**" means the telecommunication network, including

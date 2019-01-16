@@ -3,7 +3,7 @@ into between Client and Supplier for the provision of IaaS Cloud
 Computing Services. Supplier and Client are hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
 
-Applicable starting July 1st, 2017
+Applicable starting May 25th, 2018
 [Previous version](https://github.com/exoscale/terms/blob/master/terms-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master)
 
@@ -80,8 +80,8 @@ fax, email or via the Website, setting out matters relating to
 Supplier's delivery of Services to Client and governed by these Terms
 and Conditions.
 
-"**Personal Information**" means any information that may be used to
-identify an individual.
+"**Personal Information**" means any information relating to a natural person
+as defined by the applicable law that may be used to identify an individual.
 
 "**Service Commencement Time**" means (i) the time Supplier commences
 providing the Services as notified by Supplier to Client; or (ii) the
@@ -308,15 +308,22 @@ towards future billing charges.
 
 ### 5.1 Protection of Client Data
 
+### 5.1.1 Safeguards
 
 Supplier shall maintain appropriate safeguards for protection of the
 security, confidentiality and integrity of Client Data. Supplier shall
 not (i) modify Client Data, (ii) disclose Client Data except as
-compelled by law in accordance with Section 8.3.1 or as expressly
-permitted by Client in accordance with Sections 8.3.2 and 8.3.3, or
+compelled by law in accordance with Section 8.3 or as expressly
+permitted by Client in accordance with Section 8.3 or
 (iii) access Client Data except to provide the Services and prevent or
 address service or technical problems, or at Client's request in
 connection with Client support matters.
+
+### 5.1.2 Sub-contractors
+
+Supplier may engage sub-contractors to fulfil its contractual obligations.
+Supplier will obtain the sub-contractor's written confirmation that the
+sub-contractor complies with the provisions of data protection law.
 
 ### 5.2 Data Storage
 
@@ -355,23 +362,20 @@ Client's network security.
 ### 5.4 Misuse of the Services
 
 
-Client shall not (i) make the Services available to anyone other than
-Users, (ii) sell, resell, rent or lease the Services, (iii) use the
-Services to store or transmit defamatory, abusive, excessively violent,
-obscene, libelous, or otherwise unlawful or tortuous material or
-messages, or to store or transmit material or messages in violation of
-third-party privacy rights, (iv) use the Services to store or transmit
-Malicious Codes, (v) interfere with or disrupt the integrity or
-performance of the Services or third-party data contained therein, or
-(vi) attempt to gain unauthorised access to the Services or their
-related systems or networks, (vii) transmit or distribute material
-containing fraudulent offers for goods or services, or any advertising
-or promotional materials that contain false, deceptive or misleading
-statements or representations, or (viii) transmit or distribute
-unsolicited e-mail messages where such e-mail messages could reasonably
-be expected to provoke complaints (spam), all of which as reasonably
-determined by Supplier in accordance with generally accepted standards
-of the Internet community.
+Client shall not (i) make the Services available to anyone other than Users,
+(ii) sell, resell, rent or lease the Services, (iii) use the Services to store
+or transmit unlawful material or messages, or to store or transmit material or
+messages in violation of third-party privacy rights, (iv) use the Services to
+store or transmit Malicious Codes, (v) interfere with or disrupt the integrity
+or performance of the Services or third-party data contained therein, or (vi)
+attempt to gain unauthorised access to the Services or their related systems
+or networks, (vii) transmit or distribute material containing fraudulent
+offers for goods or services, or any advertising or promotional materials
+that contain false, deceptive or misleading statements or representations, or
+(viii) transmit or distribute unsolicited e-mail messages where such e-mail
+messages could reasonably be expected to provoke complaints (spam), all of
+which as reasonably determined by Supplier in accordance with generally
+accepted standards of the Internet community.
 
 ### 5.5 Unauthorized or Fraudulent Use of the Services
 
@@ -533,19 +537,18 @@ than by breach of this Section.
 
 
 The Confidential Information shall remain the property of the relevant
-Party. Each Party shall use the same degree of care that it uses to
-protect the confidentiality of its own Confidential Information of like
-kind (but in no event less than reasonable care) (i) not to use any
-Confidential Information of the Disclosing Party for any purpose outside
-the scope of this Agreement, and (ii) to limit access to Confidential
-Information of the Disclosing Party to its employees (which for Supplier
-includes its Affiliates' and its third party service providers'
-employees) and its legal and financial advisers on a 'need-to-know'
-basis provided those persons first agree to observe the confidentiality
-of the Confidential Information, without the other Party's prior written
-consent. This confidentiality undertaking shall be valid for the
-duration of this Agreement and for an indefinite time following
-termination thereof, independently of the reasons of termination.
+Party. Each Party shall use the same degree of care that it uses to protect
+the confidentiality of its own Confidential Information of like kind (but
+in no event less than reasonable care) (i) not to use any Confidential
+Information of the Disclosing Party for any purpose outside the scope of
+this Agreement, and (ii) to limit access to Confidential Information of the
+Disclosing Party to its employees (which for Supplier includes its Affiliates'
+and its subcontractors' employees) and its legal and financial advisors on
+a 'need-to-know' basis provided those persons first agree to observe the
+confidentiality of the Confidential Information, without the other Party's
+prior written consent. This confidentiality undertaking shall be valid for the
+duration of this Agreement and for an indefinite time following termination
+thereof, independently of the reasons of termination.
 
 ### 8.3 Exceptions
 
@@ -563,16 +566,7 @@ contesting the disclosure, the Disclosing Party will reimburse the
 Receiving Party for its reasonable cost of compiling and providing
 secure access to such Confidential Information.
 
-Client acknowledges and agrees that Supplier may hold, use, process
-and/or transfer Personal Information of Client and/or its employees
-(including to Affiliates, third parties and abroad): (i) in connection
-with the provision of Services; (ii) to incorporate such Personal
-Information into databases controlled by Supplier for the purpose of
-account administration, billing, operational maintenance and support
-activities, fraud detection and prevention, and customer and market
-analysis and reporting; and (iii) to communicate to Client by voice,
-letter, fax or email regarding products and services of Supplier. If
-Client believes that, in the course of providing Services under these
+If Client believes that, in the course of providing Services under these
 Terms and Conditions, Supplier will have access to data Client does not
 want Supplier to comprehend, Client should encrypt such data so that it
 will be unintelligible.
