@@ -11,7 +11,7 @@ SLA, and all documents referenced within those documents (together, the
 “agreement”). It is effective on the date that the Authorized Partner
 provisions your Subscription.
 
-Applicable starting December 15th, 2018
+Applicable starting January 16th, 2019
 [Previous version](https://github.com/exoscale/terms/blob/master/eusa-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master)
 
@@ -35,7 +35,7 @@ user interface designs, architecture, know-how, and any related
 Intellectual Property Rights throughout the world (whether owned by
 Client or licensed to Client from a third party).
 
-“**Exoscale**” means Akenes SA, Route de Marcolet 39, 1023 Crissier,
+“**Exoscale**” means Akenes SA, Boulevard de Grancy 19A, 1006 Lausanne,
 Switzerland.
 
 “**Exoscale Data**” means any data, including but not limited to any
@@ -94,7 +94,7 @@ software products that are provided by entities or individuals other
 than Exoscale and are clearly identified as such, and that interoperate
 with the Services.
 
-“Order” means the order within the active subscription submitted by
+“**Order**” means the order within the active subscription submitted by
 Client to Exoscale (for example via the Exoscale Website), setting out
 matters relating to Exoscale’s delivery of Services to Client.
 
