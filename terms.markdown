@@ -794,7 +794,7 @@ registered mail or courier, to the following address:
 
 Akenes SA
 Att. exoscale Manager
-Route de Marcolet 39, 1023 Crissier, Switzerland
+Boulevard de Grancy 19A, 1006 Lausanne, Switzerland
 
 
 Email: manager@exoscale.ch
