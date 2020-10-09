@@ -13,7 +13,7 @@ provisions your Subscription.
 
 Applicable starting January 16th, 2019
 [Previous version](https://github.com/exoscale/terms/blob/master/eusa-previous.markdown)
-[Compare](https://github.com/exoscale/terms/commits/master)
+[Compare](https://github.com/exoscale/terms/commits/master/eusa.markdown)
 
 ## 1. Definitions
 
