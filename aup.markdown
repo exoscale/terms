@@ -5,7 +5,7 @@ Applicable starting October 12th, 2020
 [Previous version](https://github.com/exoscale/terms/blob/master/aup-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master)
 
-# 1. Introduction
+## 1. Introduction
 
 This Acceptable Use Policy ("AUP") describes prohibited use of the
 services provided by Akenes SA (hereafter "Exoscale") and activities
@@ -16,9 +16,11 @@ or assist others to do so, Exoscale is entitled to suspend or terminate
 your account on the Exposcale Services as described in the
 Exoscale Terms and Conditions or Exoscale End User Service Agreement. 
 
-Capitalized terms used in this AUP and not otherwise defined herein shall have the meaning given in the Exoscale Terms and Conditions or Exoscale End User Service Agreement.
+Capitalized terms used in this AUP and not otherwise defined herein
+shall have the meaning given in the Exoscale Terms and Conditions 
+or Exoscale End User Service Agreement.
 
-# 2. No Illegal, Harmful or Offensive Use or Content
+## 2. No Illegal, Harmful or Offensive Use or Content
 
 You may not use, or encourage, promote, facilitate or instruct others to
 use, the Exoscale services or website for any illegal, harmful or
@@ -60,7 +62,7 @@ Prohibited activities or content include but are not limited to:
 -   Deceptive Content. Content that is unfair or deceptive under the consumer protection
     laws of any jurisdiction.
 
-# 3. No Security Violations
+## 3. No Security Violations
 
 You may not use the Service to violate the security or integrity of any
 network, computer or communications system, software application, or
@@ -79,7 +81,7 @@ include:
     This prohibition does not include the use of aliases or anonymous 
     remailers.
 
-# 4. No Network Abuse 
+## 4. No Network Abuse 
 
 You may not make network connections to any users, hosts, or networks
 unless you have permission to communicate with them. Prohibited
@@ -93,24 +95,30 @@ activities include:
     traffic or responds so slowly that it becomes ineffective.
     
 -   Covert Usage. Distributing software that covertly gathers or transmits information about a user.
--   Unauthorized Access. Unauthorized access to or use of data, Systems or networks, including any attempt to probe, scan or test the vulnerability of a System or to breach security or authentication measures without express authorization of the owner of the System.
+
+-   Unauthorized Access. Unauthorized access to or use of data, Systems or networks, 
+    including any attempt to probe, scan or test the vulnerability of a System or 
+    to breach security or authentication measures without express authorization of 
+    the owner of the System.
 
 -   Intentional Interference. Interfering with the proper functioning of any System, including any
     deliberate attempt to overload a system by mail bombing, news
     bombing, broadcast attacks, or flooding techniques.
 
--   Operation of Certain Network Services. Operating network services like open proxies, open mail relays, or
-    open recursive domain name servers.
+-   Operation of Certain Network Services. Operating network services like open 
+    proxies, open mail relays, or open recursive domain name servers.
 
--   Avoiding System Restrictions. Using manual or electronic means to avoid any use limitations placed
-    on a System, such as access and storage restrictions.
+-   Avoiding System Restrictions. Using manual or electronic means to 
+    avoid any use limitations placed on a System, such as access and storage restrictions.
     
--   Withholding Identity. Any activity intended to withhold or cloak identity or contact information, including the omission, deletion, forgery or misreporting of any transmission or identification information, such as return mailing and IP addresses.
+-   Withholding Identity. Any activity intended to withhold or cloak identity 
+    or contact information, including the omission, deletion, forgery or misreporting 
+    of any transmission or identification information, such as return mailing and IP addresses.
     
 -   Spam. Any action which directly or indirectly results in any 
     of our IP space being listed on any abuse database (i.e. Spamhaus).
 
-# 5. No Email or Other Message Abuse
+## 5. No Email or Other Message Abuse
 
 You will not distribute, publish, send, or facilitate the sending of
 unsolicited mass e-mail or other unsolicited messages, promotions,
@@ -120,7 +128,7 @@ explicit permission. You will not collect replies to messages sent from
 another internet service provider if those messages violate this Policy
 or the acceptable use policy of that provider.
 
-# 6. Email policy
+## 6. Email policy
 
 You must comply with the laws and regulations applicable to bulk or
 commercial email in your jurisdiction. In addition, you will comply with
@@ -137,18 +145,18 @@ the following restrictions.
 
 These policies apply to messages sent using the Service, or to messages sent from any System by you or any person on your behalf that directly or indirectly refer the recipient to a site hosted via the Service. In addition, you may not use a third party e-mail service that does not practice similar procedures for all its customers. These requirements apply to distribution lists created by third parties to the same extent as if you created the list.
 
-# Third Party Conduct
+## 7. Third Party Conduct
 
 You are responsible for violations of this AUP by anyone using your Service with your permission or on an unauthorized basis as a result of your failure to use reasonable security precautions. Your use of the Service to assist another person in an activity that would violate this AUP if performed by you is a violation of the AUP.
 
 You must use reasonable efforts to secure any device or network within your control against being used in breach of the applicable laws against spam and unsolicited email, including where appropriate by the installation of antivirus software, firewall software and operating system and application software patches and updates. Our right to suspend or terminate your Service applies even if a breach is committed unintentionally or without your authorization, including through a Trojan horse or virus.
 
-# Consequences of Violation of AUP
+## 8. Consequences of Violation of AUP
 
 If you breach the AUP we may suspend or terminate your Service in accordance with the Agreement. We may intercept or block any content or traffic belonging to you or to users where the Service is being used unlawfully or not in accordance with this AUP.
 
 No credit will be available under the Service Level Agreement for interruptions of service resulting from any AUP violation.
 
-# Reporting of Violations of this AUP
+## 8. Reporting of Violations of this AUP
 
 If you become aware of any violation of this AUP, you will immediately notify us and provide us with assistance, as requested, to stop or remedy the violation. To report any violation of this AUP, please contact us at abuse@exoscale.com.

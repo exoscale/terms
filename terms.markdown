@@ -4,6 +4,7 @@ Computing Services. Supplier and Client are hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
 
 Applicable starting January 16th, 2019
+
 [Previous version](https://github.com/exoscale/terms/blob/master/terms-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master/terms.markdown)
 
