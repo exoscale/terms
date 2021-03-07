@@ -13,7 +13,7 @@ that are not allowed on the Exoscale Services. The examples in
 this policy are not exhaustive. Exoscale may modify the AUP at any time
 and inform it's clients accordingly. If you violate the AUP, authorize
 or assist others to do so, Exoscale is entitled to suspend or terminate
-your account on the Exposcale Services as described in the
+your account on the Exoscale Services as described in the
 Exoscale Terms and Conditions or Exoscale End User Service Agreement. 
 
 Capitalized terms used in this AUP and not otherwise defined herein shall have the meaning given in the Exoscale Terms and Conditions or Exoscale End User Service Agreement.
