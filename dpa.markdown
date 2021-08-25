@@ -64,9 +64,15 @@ Client's documented instructions regarding Exoscale's processing of
 Personal Data. Exoscale only processes Client Data to the extent that is
 necessary to provide the Services.
 
-The processor shall immediately inform the controller if, in its opinion, an
+The Processor may suspend the implementation of the instruction until
+it has been confirmed or changed by the client in writing.
+
+The Processor shall immediately inform the controller if, in its opinion, an
 instruction infringes applicable data protection regulations or other Union
-or Member State data protection provisions.
+or Member State data protection provisions. The Processor may suspend the
+implementation of the instruction until it has been confirmed or changed by
+the client in writing. The Processor may refuse to execute instructions that are obviously in
+breach of data protection law at any time.
 
 ## 5. Confidentiality
 
