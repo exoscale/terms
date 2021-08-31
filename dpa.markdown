@@ -35,7 +35,7 @@ Duration: throughout the Term of the Services being provided by Exoscale
 to Client. Term of Services under this DPA is determined by the Client
 or exceptionally by Exoscale via provisions of the T&C.
 
-Nature and Purpose of the Processing: compute, storage, and  platform
+Nature and Purpose of the Processing: compute, storage, and platform
 services as described in the Website and initiated by Client excluding
 third party services available from the Exoscale Marketplace. The
 purpose is the provision of the Services initiated by Client.
