@@ -321,7 +321,7 @@ connection with Client support matters.
 
 ### 5.1.2 Sub-contractors
 
-Supplier may engage sub-contractors to fulfil its contractual obligations.
+Supplier may engage sub-contractors to fulfill its contractual obligations.
 Supplier will obtain the sub-contractor's written confirmation that the
 sub-contractor complies with the provisions of data protection law.
 
