@@ -1,6 +1,6 @@
 This Data Processing Addendum, hereafter "DPA", is an Agreement between
-Akenes SA hereafter "Exoscale" (referred to as the "**Processor**") and the client 
-hereafter "Client" (referred to as the "**Company**"). 
+Akenes SA hereafter "Exoscale" (referred to as the "**Processor**") and the client
+hereafter "Client" (referred to as the "**Company**").
 This Addendum is either an extension to the Exoscale Terms and Conditions
 available at <https://www.exoscale.com/terms/>, or the EUSA, as the case
 maybe, (each hereafter T&C) as updated from time to time between Client
@@ -48,7 +48,7 @@ IT IS AGREED AS FOLLOWS:
 
 1.1.8.2 an onward transfer of Company Personal Data from a Contracted Processor to a Subcontracted Processor, or between two establishments of a Contracted Processor, in each case, where such transfer would be prohibited by Data Protection Laws (or by the terms of data transfer agreements put in place to address the data transfer restrictions of Data Protection Laws);
 
-1.1.9 “Services” means the services the Company provides as described in the Website by Client excluding third party services available from the Exoscale Marketplace. The purpose is the provision of the Services initiated by Client..
+1.1.9 “Services” means the services the Company provides as described in the Website by Client excluding third party services available from the Exoscale Marketplace. The purpose is the provision of the Services initiated by Client.
 
 1.1.10 “Subprocessor” means any person appointed by or on behalf of Processor to process Personal Data on behalf of the Company in connection with the Agreement.
 
@@ -73,9 +73,16 @@ Processor shall take reasonable steps to ensure the reliability of any employee,
 
 4.2 In assessing the appropriate level of security, Processor shall take account in particular of the risks that are presented by Processing, in particular from a Personal Data Breach.
 
+4.3 These measures take into account the state of the art and include:
+- (a) the pseudonymisation and encryption of Client Data;
+- (b) the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+- (c) the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident;
+- (d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organizational measures for ensuring the security of the processing.
+
 ## 5. Subprocessing
 
 5.1 Processor shall not appoint (or disclose any Company Personal Data to) any Subprocessor unless required or authorized by the Company.
+
 5.2 Processor maintains a list of its sub-Processors per Service at https://www.exoscale.com/privacy/#data-processors. Processor informs the Company of any intended changes concerning the addition or replacement of other Processors at least 30 days in advance. Processor makes sure Data Processing Addendums are in place with its sub-Processors to ensure compliance with the GDPR and our security/data protection policies. If the Company objects the addition or replacement of a sub-Processor, they may terminate the services as described in the T&C.
 
 ## 6. Data Subject Rights
@@ -100,11 +107,19 @@ Processor shall take reasonable steps to ensure the reliability of any employee,
 
 9.1 Subject to this section 9 Processor shall promptly and in any event within 10 business days of the date of cessation of any Services involving the Processing of Company Personal Data (the “Cessation Date”), delete and procure the deletion of all copies of those Company Personal Data.
 
+9.2 Client’s right to data return is described in Section 13 of the T&C. In addition, Processor deletes all the personal data after the end of the provision of Services and deletes existing copies unless Union or Member State law requires storage of the personal data.
+
 ## 10. Audit rights
 
 10.1 Subject to this section 10, Processor shall make available to the Company on request all information necessary to demonstrate compliance with this Agreement, and shall allow for and contribute to audits, including inspections, by the Company or an auditor mandated by the Company in relation to the Processing of the Company Personal Data by the Contracted Processors.
 
 10.2 Information and audit rights of the Company only arise under section 10.1 to the extent that the Agreement does not otherwise give them information and audit rights meeting the relevant requirements of Data Protection Law.
+
+10.3 Processor allows for and contributes to audits, including inspections, to demonstrate compliance with the obligations and measures described in this DPA conducted by the Client or another auditor mandated by the Client by means of random checks during business hours, which are ordinarily to be announced 1 month in prior. In order to carry out an inspection, the Client shall send a detailed audit / control plan to Exoscale at least two weeks before the scheduled date of the audit, indicating the scope, duration of the audit and the start date of the audit. Exoscale shall review the audit/control plan and provide the Client with any material concerns and questions, such as information requests, that may affect the security, privacy or employment policy of the Exoscale. In any case, Exoscale cooperates cooperatively with the Client to agree on a final audit/control plan. Exoscale may claim remuneration for enabling Client inspections. Proof of the implementation of technical and organizational measures to comply with the obligations arising from this contract may be provided by:
+- a) Certification according to an approved certification procedure in accordance with Art.42 GDPR;
+- b) Current auditor’s certificates, reports or excerpts from reports provided by independent bodies (e.g. auditor, Data Protection Officer, IT security department, data privacy auditor, quality auditor)
+- c) A relevant certification by IT security or data protection auditing (e.g. according to IT Baseline Protection certification developed by the [German](https://en.wikipedia.org/wiki/Germany) Federal Office for Security in Information Technology (BSI)) or ISO/IEC).
+- d) Annual reports by Exoscale.
 
 ## 11. Data Transfer
 
@@ -123,5 +138,3 @@ Processor shall take reasonable steps to ensure the reliability of any employee,
 13.1 This Agreement is governed by the laws of Switzerland.
 
 13.2 Any dispute arising in connection with this Agreement, which the Parties will not be able to resolve amicably, will be submitted to the exclusive jurisdiction of the courts of _________________, subject to possible appeal to __________________________________.
-
-
