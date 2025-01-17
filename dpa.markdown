@@ -18,8 +18,7 @@ WHEREAS
 
 (B) The Company wishes to subcontract certain Services, which imply the processing of personal data, to the Data Processor.
 
-(C) The Parties seek to implement a data processing agreement that complies with the requirements of the current legal framework in relation to data processing and with the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
-
+(C) The Parties seek to implement a data processing agreement that complies with the requirements of the current legal framework in relation to data processing and with the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) and the Federal Act on Data Protection of 25 September 2020.
 (D) The Parties wish to lay down their rights and obligations.
 
 IT IS AGREED AS FOLLOWS:
@@ -42,15 +41,17 @@ IT IS AGREED AS FOLLOWS:
 
 1.1.7 “GDPR” means EU General Data Protection Regulation 2016/679;
 
-1.1.8 “Data Transfer” means:
+1.1.8 “FADP” means Federal Act on Data Protection of 25 September 2020 (FADP ; RS 235.1) 
 
-1.1.8.1 a transfer of Company Personal Data from the Company to a Contracted Processor; or
+1.1.9 “Data Transfer” means:
 
-1.1.8.2 an onward transfer of Company Personal Data from a Contracted Processor to a Subcontracted Processor, or between two establishments of a Contracted Processor, in each case, where such transfer would be prohibited by Data Protection Laws (or by the terms of data transfer agreements put in place to address the data transfer restrictions of Data Protection Laws);
+1.1.9.1 a transfer of Company Personal Data from the Company to a Contracted Processor; or
 
-1.1.9 “Services” means the services the Company provides as described in the Website by Client excluding third party services available from the Exoscale Marketplace. The purpose is the provision of the Services initiated by Client.
+1.1.9.2 an onward transfer of Company Personal Data from a Contracted Processor to a Subcontracted Processor, or between two establishments of a Contracted Processor, in each case, where such transfer would be prohibited by Data Protection Laws (or by the terms of data transfer agreements put in place to address the data transfer restrictions of Data Protection Laws);
 
-1.1.10 “Subprocessor” means any person appointed by or on behalf of Processor to process Personal Data on behalf of the Company in connection with the Agreement.
+1.1.10 “Services” means the services the Company provides as described in the Website by Client excluding third party services available from the Exoscale Marketplace. The purpose is the provision of the Services initiated by Client.
+
+1.1.11 “Subprocessor” means any person appointed by or on behalf of Processor to process Personal Data on behalf of the Company in connection with the Agreement.
 
 1.2 The terms, “Commission”, “Controller”, “Data Subject”, “Member State”, “Personal Data”, “Personal Data Breach”, “Processing” and “Supervisory Authority” shall have the same meaning as in the GDPR, and their cognate terms shall be construed accordingly.
 
@@ -109,32 +110,35 @@ Processor shall take reasonable steps to ensure the reliability of any employee,
 
 9.2 Client’s right to data return is described in Section 13 of the T&C. In addition, Processor deletes all the personal data after the end of the provision of Services and deletes existing copies unless Union or Member State law requires storage of the personal data.
 
-## 10. Audit rights
+## 10. Liability
 
-10.1 Subject to this section 10, Processor shall make available to the Company on request all information necessary to demonstrate compliance with this Agreement, and shall allow for and contribute to audits, including inspections, by the Company or an auditor mandated by the Company in relation to the Processing of the Company Personal Data by the Contracted Processors.
+The Processor shall indemnify Controller (and each of their respective officers, employees and agents) against all losses (including any claim, damage, cost, charge, fine, fees, levies, award, expense or other liability of any nature, whether direct, indirect, or consequential) arising out of or in connection with any failure by the Processor (and by any Subprocessor) to comply with the provisions of this Agreement or any Applicable Law.
+## 11. Audit rights
 
-10.2 Information and audit rights of the Company only arise under section 10.1 to the extent that the Agreement does not otherwise give them information and audit rights meeting the relevant requirements of Data Protection Law.
+11.1 Subject to this section 11, Processor shall make available to the Company on request all information necessary to demonstrate compliance with this Agreement, and shall allow for and contribute to audits, including inspections, by the Company or an auditor mandated by the Company in relation to the Processing of the Company Personal Data by the Contracted Processors.
 
-10.3 Processor allows for and contributes to audits, including inspections, to demonstrate compliance with the obligations and measures described in this DPA conducted by the Client or another auditor mandated by the Client by means of random checks during business hours, which are ordinarily to be announced 1 month in prior. In order to carry out an inspection, the Client shall send a detailed audit / control plan to Exoscale at least two weeks before the scheduled date of the audit, indicating the scope, duration of the audit and the start date of the audit. Exoscale shall review the audit/control plan and provide the Client with any material concerns and questions, such as information requests, that may affect the security, privacy or employment policy of the Exoscale. In any case, Exoscale cooperates cooperatively with the Client to agree on a final audit/control plan. Exoscale may claim remuneration for enabling Client inspections. Proof of the implementation of technical and organizational measures to comply with the obligations arising from this contract may be provided by:
+11.2 Information and audit rights of the Company only arise under section 11.1 to the extent that the Agreement does not otherwise give them information and audit rights meeting the relevant requirements of Data Protection Law.
+
+11.3 Processor allows for and contributes to audits, including inspections, to demonstrate compliance with the obligations and measures described in this DPA conducted by the Client or another auditor mandated by the Client by means of random checks during business hours, which are ordinarily to be announced 1 month in prior. In order to carry out an inspection, the Client shall send a detailed audit / control plan to Exoscale at least two weeks before the scheduled date of the audit, indicating the scope, duration of the audit and the start date of the audit. Exoscale shall review the audit/control plan and provide the Client with any material concerns and questions, such as information requests, that may affect the security, privacy or employment policy of the Exoscale. In any case, Exoscale cooperates cooperatively with the Client to agree on a final audit/control plan. Exoscale may claim remuneration for enabling Client inspections. Proof of the implementation of technical and organizational measures to comply with the obligations arising from this contract may be provided by:
 - a) Certification according to an approved certification procedure in accordance with Art.42 GDPR;
 - b) Current auditor’s certificates, reports or excerpts from reports provided by independent bodies (e.g. auditor, Data Protection Officer, IT security department, data privacy auditor, quality auditor)
 - c) A relevant certification by IT security or data protection auditing (e.g. according to IT Baseline Protection certification developed by the [German](https://en.wikipedia.org/wiki/Germany) Federal Office for Security in Information Technology (BSI)) or ISO/IEC).
 - d) Annual reports by Exoscale.
 
-## 11. Data Transfer
+## 12. Data Transfer
 
-11.1 The Processor may not transfer or authorize the transfer of Data to countries outside the EU and/or the European Economic Area (EEA) without the prior written consent of the Company. If personal data processed under this Agreement is transferred from a country within the European Economic Area to a country outside the European Economic Area, the Parties shall ensure that the personal data are adequately protected. To achieve this, the Parties shall, unless agreed otherwise, rely on EU approved standard contractual clauses for the transfer of personal data.
+12.1 The Processor may not transfer or authorize the transfer of Data to countries outside the EU and/or the European Economic Area (EEA) without the prior written consent of the Company. If personal data processed under this Agreement is transferred from a country within the European Economic Area to a country outside the European Economic Area, the Parties shall ensure that the personal data are adequately protected. To achieve this, the Parties shall, unless agreed otherwise, rely on EU approved standard contractual clauses for the transfer of personal data. To the extent possible, the Processor shall only transfer or authorize the transfer of Data to countries within Switzerland, the EU and/or countries subject to an adequacy decision, as provided for in art. 45 GDPR and art. 16 Swiss FADP.
 
-## 12. General Terms
+## 13. General Terms
 
-12.1 Confidentiality. Each Party must keep this Agreement and information it receives about the other Party and its business in connection with this Agreement (“Confidential Information”) confidential and must not use or disclose that Confidential Information without the prior written consent of the other Party except to the extent that:
+13.1 Confidentiality. Each Party must keep this Agreement and information it receives about the other Party and its business in connection with this Agreement (“Confidential Information”) confidential and must not use or disclose that Confidential Information without the prior written consent of the other Party except to the extent that:
 (a) disclosure is required by law;
 (b) the relevant information is already in the public domain.
 
-12.2 Notices. All notices and communications given under this Agreement must be in writing and will be delivered personally, sent by post or sent by email to the address or email address set out in the heading of this Agreement at such other address as notified from time to time by the Parties changing address.
+13.2 Notices. All notices and communications given under this Agreement must be in writing and will be delivered personally, sent by email to the address provided during account creation.
 
-## 13. Governing Law and Jurisdiction
+## 14. Governing Law and Jurisdiction
 
-13.1 This Agreement is governed by the laws of Switzerland.
+14.1 This Agreement is governed by the laws of Switzerland.
 
-13.2 Any dispute arising in connection with this Agreement, which the Parties will not be able to resolve amicably, will be submitted to the exclusive jurisdiction of the courts of _________________, subject to possible appeal to __________________________________.
+14.2 Any dispute arising in connection with this Agreement, which the Parties will not be able to resolve amicably, will be submitted to the exclusive jurisdiction of the courts of Lausanne, Switzerland.
