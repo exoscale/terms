@@ -114,7 +114,8 @@ Data Protection Impact Assessment and Prior Consultation Processor shall provide
 
 ## 10. Liability
 
-The Processor shall indemnify Controller (and each of their respective officers, employees and agents) against all losses (including any claim, damage, cost, charge, fine, fees, levies, award, expense or other liability of any nature, whether direct, indirect, or consequential) arising out of or in connection with any failure by the Processor (and by any Subprocessor) to comply with the provisions of this Agreement or any Applicable Law.
+The Processor shall indemnify Company (and each of their respective officers, employees and agents) against all losses (including any claim, damage, cost, charge, fine, fees, levies, award, expense or other liability of any nature, whether direct, indirect, or consequential) arising out of or in connection with any failure by the Processor (and by any Subprocessor) to comply with the provisions of this Agreement or any Applicable Law.
+
 ## 11. Audit rights
 
 11.1 Subject to this section 11, Processor shall make available to the Company on request all information necessary to demonstrate compliance with this Agreement, and shall allow for and contribute to audits, including inspections, by the Company or an auditor mandated by the Company in relation to the Processing of the Company Personal Data by the Contracted Processors.
