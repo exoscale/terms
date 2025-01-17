@@ -41,7 +41,7 @@ IT IS AGREED AS FOLLOWS:
 
 1.1.7 “GDPR” means EU General Data Protection Regulation 2016/679;
 
-1.1.8 “FADP” means Federal Act on Data Protection of 25 September 2020 (FADP ; RS 235.1) 
+1.1.8 “FADP” means Federal Act on Data Protection of 25 September 2020 (FADP ; RS 235.1)
 
 1.1.9 “Data Transfer” means:
 
