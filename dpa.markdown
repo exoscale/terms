@@ -26,18 +26,14 @@ Company's acceptance date, as stored in the legal section of Company's
 account at Exoscale.
 
 **WHEREAS**
-<style>
-    ol {list-style-type: lower-alpha;}
-    li {margin-bottom: 1em;}
-</style>
 
-1. The Company acts as a Data Controller (the "Controller").
+- a) The Company acts as a Data Controller (the "Controller").
 
-2. The Company wishes to subcontract certain Services (as defined
+- b) The Company wishes to subcontract certain Services (as defined
    below), which imply the processing of Personal Data, to Exoscale,
    acting as a Data Processor (the "Processor").
 
-3. The Parties seek to implement a data processing agreement that
+- c) The Parties seek to implement a data processing agreement that
    complies with the requirements of the current legal framework in
    relation to data processing and with the Regulation (EU) 2016/679 of
    the European Parliament and of the Council of 27 April 2016 on the
@@ -47,7 +43,7 @@ account at Exoscale.
    Swiss Federal Act on Data Protection of 25 September 2020 (FADP; RS
    235.1) and other applicable data protection laws.
 
-4. The Parties wish to lay down their rights and obligations.
+- d) The Parties wish to lay down their rights and obligations.
 
 **IT IS AGREED AS FOLLOWS:**
 
@@ -56,42 +52,42 @@ account at Exoscale.
 Unless otherwise defined herein, capitalized terms and expressions used
 in this Agreement shall have the following meaning:
 
-1. "**Agreement**" means this Data Processing Addendum and all Schedules;
+- a) "**Agreement**" means this Data Processing Addendum and all Schedules;
 
-2. "**Company Personal Data**" means any Personal Data related to the
+- b) "**Company Personal Data**" means any Personal Data related to the
    Company or Company's customers or employees processed in connection
    with the Principal Agreements;
 
-3. "**Contracted Processor**" means a Subprocessor;
+- c) "**Contracted Processor**" means a Subprocessor;
 
-4. "**Data Protection Laws**" means EU Data Protection Laws and, to the
+- d) "**Data Protection Laws**" means EU Data Protection Laws and, to the
    extent applicable, the data protection or privacy laws of any other
    country;
 
-5. "**EEA**" means the European Economic Area;
+- e) "**EEA**" means the European Economic Area;
 
-6. "**EU Data Protection Laws**" means EU Directive 95/46/EC, as transposed
+- f) "**EU Data Protection Laws**" means EU Directive 95/46/EC, as transposed
    into domestic legislation of each Member State, and as amended,
    replaced, or superseded from time to time, including by the GDPR and
    laws implementing or supplementing the GDPR;
 
-7. "**GDPR**" means EU General Data Protection Regulation 2016/679;
+- g) "**GDPR**" means EU General Data Protection Regulation 2016/679;
 
-8. "**FADP**" means Federal Act on Data Protection of the 25th of September
+- h) "**FADP**" means Federal Act on Data Protection of the 25th of September
    2020 (FADP; RS 235.1)
 
-9. "**Data Transfer**" means a transfer of Company Personal Data from
+- i) "**Data Transfer**" means a transfer of Company Personal Data from
    Controller to the Processor or a Contracted Processor; or an onward
    transfer of Company Personal Data from the Processor to a Contracted
    Processor, or between two establishments of Processor or Contracted
    Processor;
 
-10. "**Services**" means online services provided by the Processor, as
+- j) "**Services**" means online services provided by the Processor, as
     described at Exoscale's Website, consumed by Company excluding third
     Party services available from the Exoscale's Marketplace. The
     purpose is the provision of the Services initiated by Company;
 
-11. "**Subprocessor**" means any person appointed by or on behalf of
+- k) "**Subprocessor**" means any person appointed by or on behalf of
     Processor to process Personal Data on behalf of Controller in
     connection with the Agreement.
 
@@ -105,22 +101,22 @@ construed accordingly.
 
 2.1 Processor shall:
 
-1. comply with all applicable Data Protection Laws in the Processing of
+- a) comply with all applicable Data Protection Laws in the Processing of
    Company Personal Data;
 
-2. not process Company Personal Data other than on Controller's
+- b) not process Company Personal Data other than on Controller's
    documented instructions.
 
 2.2 Controller instructs Processor to process Company Personal Data to:
 
-1. provide the Services and related technical support;
+- a) provide the Services and related technical support;
 
-2. fulfil legal obligations or resolve disputes;
+- b) fulfil legal obligations or resolve disputes;
 
-3. exercise any internal task aimed to optimize the security, privacy,
+- c) exercise any internal task aimed to optimize the security, privacy,
    confidentiality, and functionalities of the Services;
 
-4. exercise internal reporting, financial reporting, and other similar
+- d) exercise internal reporting, financial reporting, and other similar
    internal tasks.
 
 ## 3. Processor Personnel
@@ -146,16 +142,16 @@ minimize the risk of a Personal Data Breach.
 
 These measures include:
 
-1. the pseudonymization and encryption of Company Data;
+- a) the pseudonymization and encryption of Company Data;
 
-2. the ability to ensure the ongoing confidentiality, integrity,
+- b) the ability to ensure the ongoing confidentiality, integrity,
    availability, and resilience of Processing Services;
 
-3. the ability to restore the availability and access to Company
+- c) the ability to restore the availability and access to Company
    Personal Data in a timely manner in the event of a physical or
    technical incident;
 
-4. a process for regularly testing, assessing, and evaluating the
+- d) a process for regularly testing, assessing, and evaluating the
    effectiveness of technical and organizational measures for ensuring
    the security of the Processing.
 
@@ -198,11 +194,11 @@ exercise Data Subject rights under applicable Data Protection Laws.
 
 **Processor shall:**
 
-1. promptly notify Company if it receives a request from a Data Subject
+- a) promptly notify Company if it receives a request from a Data Subject
    under any Data Protection Law in respect of Company Personal Data;
    and
 
-2. ensure that it does not respond to that request except on the
+- b) ensure that it does not respond to that request except on the
    documented instructions of Controller or as required by applicable
    laws to which the Processor is subject, in which case Processor
    shall to the extent permitted by applicable laws inform Controller
@@ -319,9 +315,9 @@ Agreement ("Confidential Information") confidential and must not use or
 disclose that Confidential Information without the prior written consent
 of the other Party except to the extent that:
 
-1. disclosure is required by law;
+- a) disclosure is required by law;
 
-2. the relevant information is already in the public domain through no
+- b) the relevant information is already in the public domain through no
    fault of the Parties.
 
 **12.3 Notices:** All notices and communications given under this
