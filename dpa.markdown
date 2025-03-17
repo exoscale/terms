@@ -158,10 +158,9 @@ These measures include:
 4.2 The Processor continues to adjust technical and organizational
 measures to follow latest versions of security frameworks and comply
 with most recent revisions of internationally recognized security and
-privacy certifications as found at ﷟HYPERLINK
-<https://www.exoscale.com/compliance>. These certifications are to
-demonstrate compliance with the requirements set out in section 4.1 of
-this Agreement, as proposed in Article 32 (3) GDPR.
+privacy certifications as found at https://www.exoscale.com/compliance. 
+These certifications are to demonstrate compliance with the requirements 
+set out in section 4.1 of this Agreement, as proposed in Article 32 (3) GDPR.
 
 ## 5. Subprocessing
 
