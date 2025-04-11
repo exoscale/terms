@@ -21,7 +21,7 @@ The terms of this Agreement shall follow the terms of the Principal
 Agreements. Terms not defined herein shall have the meaning as set forth
 in the Principal Agreements.
 
-This Agreement is applicable starting March 15th, 2025, and binding at
+This Agreement is applicable starting May 5th, 2025, and binding at
 Company's acceptance date, as stored in the legal section of Company's
 account at Exoscale.
 
