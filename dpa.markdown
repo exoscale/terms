@@ -13,10 +13,6 @@ This Agreement governs the specific requirements of Data Protection Laws
 to the extent that Company's use of Exoscale's Services implies the
 processing of Personal Data subject to Data Protection Laws.
 
-This Agreement is complementary to our [Privacy
-Policy](https://www.exoscale.com/privacy/), which serves as the primary
-reference for our data protection practices and measures.
-
 The terms of this Agreement shall follow the terms of the Principal
 Agreements. Terms not defined herein shall have the meaning as set forth
 in the Principal Agreements.
@@ -54,40 +50,44 @@ in this Agreement shall have the following meaning:
 
 1. "**Agreement**" means this Data Processing Addendum and all Schedules;
 
-2. "**Company Personal Data**" means any Personal Data related to the
+2. “**Company Data**” means any data (including but not limited to any software application) stored by Company on the
+   cloud infrastructure provided by Processor, including all text, pictures, sound, video, and log files and all
+   documentation (printed or electronic).
+
+3. "**Company Personal Data**" means any Personal Data related to the
    Company or Company's customers or employees processed in connection
    with the Principal Agreements;
 
-3. "**Contracted Processor**" means a Subprocessor;
+4. "**Contracted Processor**" means a Subprocessor;
 
-4. "**Data Protection Laws**" means EU Data Protection Laws and, to the
+5. "**Data Protection Laws**" means EU Data Protection Laws and, to the
    extent applicable, the data protection or privacy laws of any other
    country;
 
-5. "**EEA**" means the European Economic Area;
+6. "**EEA**" means the European Economic Area;
 
-6. "**EU Data Protection Laws**" means EU Directive 95/46/EC, as transposed
+7. "**EU Data Protection Laws**" means EU Directive 95/46/EC, as transposed
    into domestic legislation of each Member State, and as amended,
    replaced, or superseded from time to time, including by the GDPR and
    laws implementing or supplementing the GDPR;
 
-7. "**GDPR**" means EU General Data Protection Regulation 2016/679;
+8. "**GDPR**" means EU General Data Protection Regulation 2016/679;
 
-8. "**FADP**" means Federal Act on Data Protection of the 25th of September
+9. "**FADP**" means Federal Act on Data Protection of the 25th of September
    2020 (FADP; RS 235.1)
 
-9. "**Data Transfer**" means a transfer of Company Personal Data from
-   Controller to the Processor or a Contracted Processor; or an onward
-   transfer of Company Personal Data from the Processor to a Contracted
-   Processor, or between two establishments of Processor or Contracted
-   Processor;
+10. "**Data Transfer**" means a transfer of Company Personal Data from
+    Controller to the Processor or a Contracted Processor; or an onward
+    transfer of Company Personal Data from the Processor to a Contracted
+    Processor, or between two establishments of Processor or Contracted
+    Processor;
 
-10. "**Services**" means online services provided by the Processor, as
+11. "**Services**" means online services provided by the Processor, as
     described at Exoscale's Website, consumed by Company excluding third
     Party services available from the Exoscale's Marketplace. The
     purpose is the provision of the Services initiated by Company;
 
-11. "**Subprocessor**" means any person appointed by or on behalf of
+12. "**Subprocessor**" means any person appointed by or on behalf of
     Processor to process Personal Data on behalf of Controller in
     connection with the Agreement.
 
@@ -168,7 +168,7 @@ measures to follow latest versions of security frameworks and comply
 with most recent revisions of internationally recognized security and
 privacy certifications as found at https://www.exoscale.com/compliance.
 These certifications are to demonstrate compliance with the requirements
-set out in section 4.1 of this Agreement, as proposed in Article 32 (3) GDPR.
+set out in section 4.1 of this Agreement.
 
 ## 5. Subprocessing
 
@@ -196,6 +196,9 @@ with Processor no less restrictive and protective than the present
 Agreement with respect to the protection of Company Personal Data to the
 extent applicable to the nature of the Services provided by the
 Subprocessor.
+
+Processor remains fully responsible towards the Controller for the fulfillment
+of obligations of the Subprocessors regarding Personal Data Protection.
 
 ## 6. Data Subject Rights
 
@@ -263,8 +266,7 @@ has been deleted can no longer be considered.
 
 Upon request of Company, notified at least 30 (thirty) days prior to
 termination of the Services, Processor shall make Company Data available
-to Company in its original format through the Processor's recovery
-service, upon charge of a recovery service fee.
+to Company in its original format.
 
 ### 9.3. Deletion
 
@@ -288,7 +290,7 @@ relation to the Processing of the Company Personal Data by the
 Contracted Processors. Company shall not exercise its audit rights more
 than once per calendar year except following a Personal Data Breach or
 an instruction by a regulatory authority. Company shall give Processor
-at least 60 (sixty) days prior written notice of its intention to audit
+at least 30 (thirty) days prior written notice of its intention to audit
 Processor pursuant to this Agreement.
 
 ### 10.2. Limitations
