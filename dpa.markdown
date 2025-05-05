@@ -1,237 +1,376 @@
-This Data Processing Addendum, hereafter "DPA", is an Agreement between
-Akenes SA hereafter "Exoscale" and the client hereafter "Client". This
-Addendum is either an extension to the Exoscale Terms and Conditions
-available at <https://www.exoscale.com/terms/>, or the EUSA, as the case
-maybe, (each hereafter T&C) as updated from time to time between Client
-and Exoscale, when GDPR applies to your use of the Services to process
-Client Data.
+This Data Processing Addendum (referred to as the "Agreement") forms
+part of the Contract for Services under Exoscale's [Terms and
+Conditions](https://www.exoscale.com/terms/) and/or Exoscale's [End User
+Service Agreement](https://www.exoscale.com/eusa/) (both referred to as
+the "Principal Agreements") between Akenes SA (referred to as the
+"**Processor**") and the "**Company**" using Exoscale's services.
 
-Applicable starting September 1st, 2021 and binding at Client acceptance
-date as stored in the legal section of the Exoscale Portal of the Client.
-[Previous version](https://github.com/exoscale/terms/blob/master/dpa-previous.markdown)
-[Compare](https://github.com/exoscale/terms/commits/master)
+Exoscale is a registered trademark of the Processor Akenes SA, Boulevard
+de Grancy 19A, 1006 Lausanne, Switzerland, company identification number
+CHE-423.524.322.
 
-## 1. Definitions
+This Agreement governs the specific requirements of Data Protection Laws
+to the extent that Company's use of Exoscale's Services implies the
+processing of Personal Data subject to Data Protection Laws.
 
-GDPR means Regulation (EU) 2016/679 of the European Parliament and of
-the Council of 27 April 2016 on the protection of natural persons with
-regard to the processing of personal data and on the free movement of
-such data, and repealing Directive 95/46/EC (General Data Protection
-Regulation).
+This Agreement is complementary to our [Privacy
+Policy](https://www.exoscale.com/privacy/), which serves as the primary
+reference for our data protection practices and measures.
 
-The terms "Personal Data", "Data Subject", "Processing", "Controller",
-"Processor", "Union" and "Member State" as used in this Data Processing
-Addendum have the meanings given in the GDPR.
+The terms of this Agreement shall follow the terms of the Principal
+Agreements. Terms not defined herein shall have the meaning as set forth
+in the Principal Agreements.
 
-Unless otherwise defined in this DPA, all capitalized terms used shall
-have the meanings given to them in the T&C.
+This Agreement is applicable starting May 5th, 2025, and binding at
+Company's acceptance date, as stored in the legal section of Company's
+account at Exoscale.
 
-## 2. Details of Processing
+**WHEREAS**
 
-Subject matter: the subject matter of the data processing under this DPA
-is Client Data.
+1. The Company acts as a Data Controller (the "Controller").
 
-Duration: throughout the Term of the Services being provided by Exoscale
-to Client. Term of Services under this DPA is determined by the Client
-or exceptionally by Exoscale via provisions of the T&C.
+2. The Company wishes to subcontract certain Services (as defined
+   below), which imply the processing of Personal Data, to Exoscale,
+   acting as a Data Processor (the "Processor").
 
-Nature and Purpose of the Processing: compute, storage, and platform
-services as described in the Website and initiated by Client excluding
-third party services available from the Exoscale Marketplace. The
-purpose is the provision of the Services initiated by Client.
+3. The Parties seek to implement a data processing agreement that
+   complies with the requirements of the current legal framework in
+   relation to data processing and with the Regulation (EU) 2016/679 of
+   the European Parliament and of the Council of 27 April 2016 on the
+   protection of natural persons with regard to the processing of
+   Personal Data and on the free movement of such data, and repealing
+   Directive 95/46/EC (General Data Protection Regulation) and the
+   Swiss Federal Act on Data Protection of 25 September 2020 (FADP; RS
+   235.1) and other applicable data protection laws.
 
-Type of personal data: personal data uploaded to the Services under
-Client's Exoscale accounts.
+4. The Parties wish to lay down their rights and obligations.
 
-Categories of data subjects: the data subjects include without
-limitation: Client's customers, employees, suppliers, and end-users.
+**IT IS AGREED AS FOLLOWS:**
 
-## 3. Obligations and Rights of the Controller
+## 1. Definitions and Interpretation
 
-If European Data Protection Legislation applies to the processing of
-Client's data, the parties acknowledge and agree that Exoscale is a
-Processor of Client's data under European Data Protection Legislation,
-that Client is a Controller under European Data Protection Legislation
-(unless when Client acts as a Processor, in which case Exoscale is a
-sub-Processor) and that the parties complies with their obligations
-under applicable European Data Protection Legislation with respect to
-the processing of Personal Data.
+Unless otherwise defined herein, capitalized terms and expressions used
+in this Agreement shall have the following meaning:
 
-## 4. Client Instructions
+1. "**Agreement**" means this Data Processing Addendum and all Schedules;
 
-By entering into this DPA, the parties agree that the DPA constitutes
-Client's documented instructions regarding Exoscale's processing of
-Personal Data. Exoscale only processes Client Data to the extent that is
-necessary to provide the Services.
+2. "**Company Personal Data**" means any Personal Data related to the
+   Company or Company's customers or employees processed in connection
+   with the Principal Agreements;
 
-The Processor may suspend the implementation of the instruction until
-it has been confirmed or changed by the client in writing.
+3. "**Contracted Processor**" means a Subprocessor;
 
-The Processor shall immediately inform the controller if, in its opinion, an
-instruction infringes applicable data protection regulations or other Union
-or Member State data protection provisions. The Processor may suspend the
-implementation of the instruction until it has been confirmed or changed by
-the client in writing. The Processor may refuse to execute instructions that are obviously in
-breach of data protection law at any time.
+4. "**Data Protection Laws**" means EU Data Protection Laws and, to the
+   extent applicable, the data protection or privacy laws of any other
+   country;
 
-## 5. Confidentiality
+5. "**EEA**" means the European Economic Area;
 
-Exoscale does not access, use, or share Client Data to any third party,
-except when this access, use or sharing is necessary to provide the
-Services, or as required to comply with law enforcement requests.
+6. "**EU Data Protection Laws**" means EU Directive 95/46/EC, as transposed
+   into domestic legislation of each Member State, and as amended,
+   replaced, or superseded from time to time, including by the GDPR and
+   laws implementing or supplementing the GDPR;
 
-Exoscale ensures that the persons authorized to process personal data
-have committed themselves to confidentiality or are under an appropriate
-statutory obligation of confidentiality.
+7. "**GDPR**" means EU General Data Protection Regulation 2016/679;
 
-## 6. Security of Processing
+8. "**FADP**" means Federal Act on Data Protection of the 25th of September
+   2020 (FADP; RS 235.1)
 
-Exoscale implements and maintains appropriate technical and
-organizational security measures to protect Client Data against
-accidental destruction, alteration or access. These measures take into
-account the state of the art and include (a) the pseudonymisation and
-encryption of Client Data; (b) the ability to ensure the ongoing
-confidentiality, integrity, availability and resilience of processing
-systems and services; (c) the ability to restore the availability and
-access to personal data in a timely manner in the event of a physical or
-technical incident; (d) a process for regularly testing, assessing and
-evaluating the effectiveness of technical and organizational measures
-for ensuring the security of the processing. Exoscale may assess and
-improve security measures at regular intervals, provided that these
-improvements lead to an increased level of security for providing the
-Services. Exoscale assists the Client in ensuring compliance with the
-obligations pursuant to Articles 32 to 36 of the GDPR given the nature
-of processing and the information available to Exoscale.
+9. "**Data Transfer**" means a transfer of Company Personal Data from
+   Controller to the Processor or a Contracted Processor; or an onward
+   transfer of Company Personal Data from the Processor to a Contracted
+   Processor, or between two establishments of Processor or Contracted
+   Processor;
 
-## 7. Processors
+10. "**Services**" means online services provided by the Processor, as
+    described at Exoscale's Website, consumed by Company excluding third
+    Party services available from the Exoscale's Marketplace. The
+    purpose is the provision of the Services initiated by Company;
 
-Exoscale maintains a list of its sub-Processors per Service at
-[https://www.exoscale.com/privacy/#data-processors](https://www.exoscale.com/privacy/#data-processors).
-Exoscale informs the Client of any intended changes concerning the
-addition or replacement of other Processors at least 30 days in advance.
-Exoscale makes sure Data Processing Addendums are in place with its
-sub-Processors to ensure compliance with the GDPR and our security/data
-protection policies. If the Client objects the addition or replacement
-of a sub-Processor, they may terminate the services as described in the T&C.
+11. "**Subprocessor**" means any person appointed by or on behalf of
+    Processor to process Personal Data on behalf of Controller in
+    connection with the Agreement.
 
-## 8. Data Subject Rights
+The terms "Commission", "Controller", "Data Subject", "Member State",
+"Personal Data", "Personal Data Breach", "Processing", "Processor", and
+"Supervisory Authority" shall have the same meaning as in the GDPR or
+other applicable Data Protection Law, and their cognate terms shall be
+construed accordingly.
 
-Exoscale assists the Client for the fulfilment of their obligation to
-respond to requests for exercising the data subject's rights as laid
-down in Chapter III of the GDPR: (a) right of access by the data
-subject, (b) right to rectification, (c) right to erasure, (d) right to
-restriction of processing, and (e) right to data portability. Upon
-receiving such requests from data subjects, Exoscale uses commercially
-reasonable efforts to forward requests to the Client.
+## 2. Processing of Company Personal Data
 
-## 9. Deletion and Return
+### 2.1. Processor obligations
 
-Client's right to data return is described in Section 13 of the T&C.
-In addition, Exoscale deletes all the personal data after
-the end of the provision of Services and deletes existing copies unless
-Union or Member State law requires storage of the personal data.
+Processor shall:
 
-## 10. Audit rights
+1. comply with all applicable Data Protection Laws in the Processing of
+   Company Personal Data;
 
-Exoscale allows for and contributes to audits, including inspections, to
-demonstrate compliance with the obligations and measures described in
-this DPA conducted by the Client or another auditor mandated by the
-Client by means of random checks during business hours, which are
-ordinarily to be announced 1 month in prior. In order to carry out an
-inspection, the Client shall send a detailed audit / control plan to
-Exoscale at least two weeks before the scheduled date of the audit,
-indicating the scope, duration of the audit and the start date of the
-audit. Exoscale shall review the audit/control plan and provide the
-Client with any material concerns and questions, such as information
-requests, that may affect the security, privacy or employment policy of
-the Exoscale. In any case, Exoscale cooperates cooperatively with the
-Client to agree on a final audit/control plan. Exoscale may claim
-remuneration for enabling Client inspections. Proof of the
-implementation of technical and organizational measures to comply with
-the obligations arising from this contract may be provided by:
+2. not process Company Personal Data other than on Controller's
+   documented instructions.
 
-a) Certification according to an approved certification procedure in
-accordance with Art.42 GDPR;
-b) Current auditor's certificates, reports or excerpts from reports
-provided by independent bodies (e.g. auditor, Data Protection
-Officer, IT security department, data privacy auditor, quality
-auditor)
-c) A relevant certification by IT security or data protection auditing
-(e.g. according to IT Baseline Protection certification developed by
-the [German](https://en.wikipedia.org/wiki/Germany) Federal Office
-for Security in Information Technology (BSI)) or ISO/IEC).
-d) Annual reports by Exoscale
+### 2.2 Controller instructions
 
-## Schedule 1: Exoscale Security Controls
+Controller instructs Processor to process Company Personal Data to:
 
-### Confidentiality
+1. provide the Services and related technical support;
 
-**Physical Access Control**: physical access to facilities is guarded by
-24/7 staff performing identity controls, as well as automated mechanisms
-including fenced doors with biometric checks, CCTV recording, and motion
-detection.
+2. fulfil legal obligations or resolve disputes;
 
-**Electronic access control**: strong password policy, encryption of
-at-rest data, use of state-of-the art software security mechanisms.
+3. exercise any internal task aimed to optimize the security, privacy,
+   confidentiality, and functionalities of the Services;
 
-**Internal Access Control**: data access requests to Exoscale systems
-are made according to an authorizations scheme implementing need-based
-rights of access. All system access events are logged within Exoscale's
-visibility platform.
+4. exercise internal reporting, financial reporting, and other similar
+   internal tasks.
 
-**Isolation Control**: strong logical separation is enforced between
-Data Subjects.
+## 3. Processor Personnel
 
-**Pseudonymization**: Personal data is processed in a way allowing that
-the data cannot be associated with a specific Data Subject without the
-assistance of additional information, stored separately.
+Processor shall take reasonable steps to ensure the reliability of any
+employee, agent or contractor of any Contracted Processor who may have
+access to Company Personal Data, ensuring in each case that access is
+strictly limited to those individuals who need to know/access the
+relevant Company Personal Data, as strictly necessary for the purposes
+of the Principal Agreements, and/or to comply with Data Protection Laws
+and other relevant legislation, ensuring that all such individuals are
+subject to confidentiality undertakings or professional or statutory
+obligations of confidentiality.
 
-### Integrity
+## 4. Security
 
-**Data Transfer Control**: Personal Data is only transferred in an
-encrypted way to ensure no unauthorized reading, copying, changes or
-deletion happens during the transfer.
+### 4.1. Technical and Organizational measures
 
-**Data Entry Control**: data entry events are logged within Exoscale's
-visibility platform.
+In accordance with Article 32 (1) of the GDPR, the Processor shall
+implement technical and organizational measures to ensure a level of
+security appropriate to the risk, considering the state of the art, the
+costs of implementation, and the nature, scope, context, and purposes of
+Processing, to protect the rights and freedoms of natural persons, and
+minimize the risk of a Personal Data Breach.
 
-### Availability and Resilience
+These measures include:
 
-**Availability control**:
+1. the pseudonymization and encryption of Company Data;
 
-- Physical: redundant power, network and storage mitigate against
-  hardware issues leading to data unavailability or loss.
-- Logical: firewalling provides strong systems isolation. Online and
-  offline backups are made to prevent accidental or wilful destruction
-  or loss.
+2. the ability to ensure the ongoing confidentiality, integrity,
+   availability, and resilience of Processing Services;
 
-**Rapid recovery**: in the event of a physical or technical incident,
-Exoscale keeps the ability to restore the availability and access to
-personal data in a timely manner.
+3. the ability to restore the availability and access to Company
+   Personal Data in a timely manner in the event of a physical or
+   technical incident;
 
-### Procedures for regular testing, assessment and evaluation
+4. a process for regularly testing, assessing, and evaluating the
+   effectiveness of technical and organizational measures for ensuring
+   the security of the Processing.
 
-**Data Protection Management**: Exoscale reviews on a yearly basis 1)
-its record of activity that inventories the processing of personal data,
-and 2) its Data Access response procedures.
+### 4.2. Certifications
 
-**Incident Response Management**: Exoscale carries yearly assessments of
-incident response scenarios, including data breach and data recovery
-procedures.
+The Processor continues to adjust technical and organizational
+measures to follow latest versions of security frameworks and comply
+with most recent revisions of internationally recognized security and
+privacy certifications as found at https://www.exoscale.com/compliance.
+These certifications are to demonstrate compliance with the requirements
+set out in section 4.1 of this Agreement, as proposed in Article 32 (3) GDPR.
 
-**Data Protection by Design and by Default**: Exoscale processes data
-while ensuring the processing is done with the highest level of privacy
-protection:
+## 5. Subprocessing
 
-- Only a minimal set of data is processed, stored, or transferred over
-  the wire.
-- Storage period is the shortest possible for the given data
-  processed.
-- Access is as restricted as possible.
-- Encryption is used for all data access workloads.
-- Pseudonymization is generalized in the processing of Personal Data.
+### 5.1. Appointment of Subprocessors
 
-**Order or Contact Control**: data processors are subject to clear and
-unambiguous contractual arrangements, formalized order management,
-strict controls on the selection of the Service Provider, as well as
-regular supervisory follow-up checks.
+Processor shall not appoint (or disclose any Company Personal Data
+to) any Subprocessor unless authorized by the Company. The Company
+acknowledges and approves the following list of Subprocessors:
+
+| Name of Contracted Processor | Purpose                                                                                                              | Location          |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------|
+| Aiven Oy                     | Orchestration of Database as a Service (DbaaS) instances running on Processor's infrastructure as Exoscale Services. | Helsinki, Finland |
+
+Company understands that this list may be updated by Processor
+regularly. Processor informs Company of any intended changes concerning
+the addition or replacement of other Processors at least 30 (thirty)
+days in advance. If Company objects the addition or replacement of a
+Subprocessor, it may terminate the Services upon 30 (thirty) days
+notice.
+
+### 5.2. Agreements with Subprocessors
+
+Processor ensures that Subprocessors are subject to an agreement
+with Processor no less restrictive and protective than the present
+Agreement with respect to the protection of Company Personal Data to the
+extent applicable to the nature of the Services provided by the
+Subprocessor.
+
+## 6. Data Subject Rights
+
+Considering the nature of the Processing, Processor shall assist Company
+for the fulfilment of Company's obligations to respond to requests to
+exercise Data Subject rights under applicable Data Protection Laws.
+
+**Processor shall:**
+
+1. promptly notify Company if it receives a request from a Data Subject
+   under any Data Protection Law in respect of Company Personal Data;
+   and
+
+2. ensure that it does not respond to that request except on the
+   documented instructions of Controller or as required by applicable
+   laws to which the Processor is subject, in which case Processor
+   shall to the extent permitted by applicable laws inform Controller
+   of that legal requirement before the Contracted Processor responds
+   to the request.
+
+## 7. Personal Data Breach
+
+### 7.1. Data breach process
+
+The Processor shall manage any Personal Data Breach in compliance
+with applicable Data Protection Laws and its internal Personal Data
+Breach procedures. In the event of a Personal Data Breach affecting
+Company Personal Data, the Processor shall notify the Company without
+delay, providing sufficient information to enable the Company to fulfill
+its obligations under Data Protection Laws, including informing Data
+Subjects, as necessary. In such cases, the Processor shall provide the
+Company with sufficient information to allow the Company to meet any
+obligations to report or inform Data Subjects of the Personal Data
+Breach under the Data Protection Laws.
+
+### 7.2. Co-operation
+
+Processor shall co-operate with the Company and take reasonable
+commercial steps as directed by the Company to assist in the
+investigation, mitigation, and remediation of each such Personal Data
+Breach.
+
+## 8. Data Protection Impact Assessment and Prior Consultation
+
+Processor shall provide reasonable assistance to Company with any data
+protection impact assessments, and prior consultations with Supervising
+Authorities or other competent data privacy authorities, which Company
+reasonably considers to be required by article 35 or 36 of the GDPR or
+equivalent provisions of any other Data Protection Law, in each case
+solely in relation to Processing of Company Personal Data, and taking
+into account the nature of the Processing and information available to
+the Contracted Processors.
+
+## 9. Deletion or Return of Company Personal Data
+
+### 9.1. Service termination
+
+In case of cessation of any Service involving the Processing of
+Company Personal Data, the Processor shall delete all Company Personal
+Data. Should the Company require a copy of their data, they must request
+it before the deletion of their account; requests made after the account
+has been deleted can no longer be considered.
+
+### 9.2. Data return
+
+Upon request of Company, notified at least 30 (thirty) days prior to
+termination of the Services, Processor shall make Company Data available
+to Company in its original format through the Processor's recovery
+service, upon charge of a recovery service fee.
+
+### 9.3. Deletion
+
+Unless a request for the Processor's recovery service is made,
+Processor shall have no obligation to maintain or provide any of Company
+Data after termination of the Services and shall thereafter, unless
+legally prohibited, promptly and in any event within 10 (ten) business
+days of the date of cessation of any Services involving the Processing
+of Company Personal Data (the "Cessation Date"), delete and procure the
+deletion of all copies of those Company Personal Data.
+
+## 10. Audit Rights
+
+### 10.1. Audit process
+
+Subject to this section 10, Processor shall make available to
+Company on request all information necessary to demonstrate compliance
+with this Agreement, and shall allow for and contribute to audits,
+including inspections, by Company or an auditor mandated by Company in
+relation to the Processing of the Company Personal Data by the
+Contracted Processors. Company shall not exercise its audit rights more
+than once per calendar year except following a Personal Data Breach or
+an instruction by a regulatory authority. Company shall give Processor
+at least 60 (sixty) days prior written notice of its intention to audit
+Processor pursuant to this Agreement.
+
+### 10.2. Limitations
+
+Audit shall be conducted during Processor's business hours, shall
+not disrupt Processor's operations, and shall ensure the protection of
+the Company's, Processor's, and other Data Subjects' Personal Data.
+Processor and Company shall mutually agree in advance on the date,
+scope, duration, and security and confidentiality controls applicable to
+the audit. Company acknowledges that signing a non-disclosure agreement
+may be required by the Controller prior to the audit.
+
+### 10.3. Scope
+
+Information and audit rights of Company only arise under section 10
+to the extent that the Agreement does not otherwise give them
+information and audit rights meeting the relevant requirements of Data
+Protection Law.
+
+## 11. Data Transfer
+
+### 11.1. Data transfer between countries
+
+Processor shall not transfer any Company Data, including Company
+Personal Data, between countries unless authorized by Company.
+
+### 11.2. Data protection across jurisdictions
+
+Processor shall only transfer or authorize the transfer of Data
+within Switzerland, the EU, the EEA, and/or countries subject to an
+adequacy decision, as provided for in art. 45 GDPR and art. 16 Swiss
+FADP. If Personal Data processed under this Agreement is transferred
+from Switzerland or any country within the EU, the EEA, or any country
+subject to an adequacy decision to a country outside of this scope, the
+Parties shall ensure that the Personal Data is adequately protected. To
+achieve this, the Parties shall, unless agreed otherwise, rely on
+Switzerland- and/or EU- and/or EEA-approved and then-current standard
+contractual clauses for the transfer of Personal Data or other transfer
+mechanisms as provided by Data Protection Laws. Processor shall be
+authorized to perform such transfers to Subprocessors provided that
+adequate safeguards are implemented in regard to the nature of the
+transfer.
+
+## 12. General Terms
+
+### 12.1. Compliance with Applicable Laws
+
+Processor will process Company
+Personal Data in accordance with this Agreement and Data Protection Laws
+applicable to its role under this Agreement. Processor is not
+responsible nor liable for complying with Data Protection Laws solely
+applicable to Company by virtue of its business or industry.
+
+### 12.2. Confidentiality
+
+Each Party must keep any information it
+receives about the other Party and its business in connection with this
+Agreement ("Confidential Information") confidential and must not use or
+disclose that Confidential Information without the prior written consent
+of the other Party except to the extent that:
+
+1. disclosure is required by law;
+
+2. the relevant information is already in the public domain through no
+   fault of the Parties.
+
+### 12.3. Notices
+
+All notices and communications given under this
+Agreement must be in writing and will be sent by email. Controller shall
+be notified by email sent to the address related to its use of the
+Services under the Principal Agreements. Processor shall be notified by
+email sent to the address: privacy@exoscale.com.
+
+### 12.4. Governing Law and Jurisdiction
+
+This Agreement shall be
+governed by Swiss law, without regard to the choice or conflicts of law
+provisions of any jurisdiction to the contrary, and disputes, actions,
+claims or causes of action arising out of or in connection with this
+Agreement, an order form, any document incorporated by reference,
+Exoscale technology, or the Services shall be subject to the exclusive
+jurisdiction of Switzerland, specifically within the canton of Vaud
+(French: Canton de Vaud). It is governed by Swiss federal laws as well
+as the laws and regulations of the canton of Vaud.

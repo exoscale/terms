@@ -6,6 +6,11 @@ maybe, (each hereafter T&C) as updated from time to time between Client
 and Exoscale, when GDPR applies to your use of the Services to process
 Client Data.
 
+Applicable starting September 1st, 2021 and binding at Client acceptance
+date as stored in the legal section of the Exoscale Portal of the Client.
+[Previous version](https://github.com/exoscale/terms/blob/master/dpa-previous.markdown)
+[Compare](https://github.com/exoscale/terms/commits/master)
+
 ## 1. Definitions
 
 GDPR means Regulation (EU) 2016/679 of the European Parliament and of
@@ -18,7 +23,7 @@ The terms "Personal Data", "Data Subject", "Processing", "Controller",
 "Processor", "Union" and "Member State" as used in this Data Processing
 Addendum have the meanings given in the GDPR.
 
-Unless otherwise defined in this DPA, all capitalised terms used shall
+Unless otherwise defined in this DPA, all capitalized terms used shall
 have the meanings given to them in the T&C.
 
 ## 2. Details of Processing
@@ -30,8 +35,9 @@ Duration: throughout the Term of the Services being provided by Exoscale
 to Client. Term of Services under this DPA is determined by the Client
 or exceptionally by Exoscale via provisions of the T&C.
 
-Nature and Purpose of the Processing: compute, storage, and such other
-services as described in the Website and initiated by Client. The
+Nature and Purpose of the Processing: compute, storage, and platform
+services as described in the Website and initiated by Client excluding
+third party services available from the Exoscale Marketplace. The
 purpose is the provision of the Services initiated by Client.
 
 Type of personal data: personal data uploaded to the Services under
@@ -58,11 +64,25 @@ Client's documented instructions regarding Exoscale's processing of
 Personal Data. Exoscale only processes Client Data to the extent that is
 necessary to provide the Services.
 
+The Processor may suspend the implementation of the instruction until
+it has been confirmed or changed by the client in writing.
+
+The Processor shall immediately inform the controller if, in its opinion, an
+instruction infringes applicable data protection regulations or other Union
+or Member State data protection provisions. The Processor may suspend the
+implementation of the instruction until it has been confirmed or changed by
+the client in writing. The Processor may refuse to execute instructions that are obviously in
+breach of data protection law at any time.
+
 ## 5. Confidentiality
 
 Exoscale does not access, use, or share Client Data to any third party,
 except when this access, use or sharing is necessary to provide the
 Services, or as required to comply with law enforcement requests.
+
+Exoscale ensures that the persons authorized to process personal data
+have committed themselves to confidentiality or are under an appropriate
+statutory obligation of confidentiality.
 
 ## 6. Security of Processing
 
@@ -75,7 +95,7 @@ confidentiality, integrity, availability and resilience of processing
 systems and services; (c) the ability to restore the availability and
 access to personal data in a timely manner in the event of a physical or
 technical incident; (d) a process for regularly testing, assessing and
-evaluating the effectiveness of technical and organisational measures
+evaluating the effectiveness of technical and organizational measures
 for ensuring the security of the processing. Exoscale may assess and
 improve security measures at regular intervals, provided that these
 improvements lead to an increased level of security for providing the
@@ -85,14 +105,14 @@ of processing and the information available to Exoscale.
 
 ## 7. Processors
 
-Exoscale maintains a list of its sub-Processors at
+Exoscale maintains a list of its sub-Processors per Service at
 [https://www.exoscale.com/privacy/#data-processors](https://www.exoscale.com/privacy/#data-processors).
 Exoscale informs the Client of any intended changes concerning the
 addition or replacement of other Processors at least 30 days in advance.
 Exoscale makes sure Data Processing Addendums are in place with its
-sub-Processors to ensure compliance with the GDPR. If the Client objects
-the addition or replacement of a sub-Processor, they may terminate the
-services as described in the T&C.
+sub-Processors to ensure compliance with the GDPR and our security/data
+protection policies. If the Client objects the addition or replacement
+of a sub-Processor, they may terminate the services as described in the T&C.
 
 ## 8. Data Subject Rights
 
@@ -106,10 +126,10 @@ reasonable efforts to forward requests to the Client.
 
 ## 9. Deletion and Return
 
-Client's right to data return is described in Section 13 of the T&C. In
-addition, Exoscale deletes all the personal data after the end of the
-provision of Services and deletes existing copies unless Union or Member
-State law requires storage of the personal data.
+Client's right to data return is described in Section 13 of the T&C.
+In addition, Exoscale deletes all the personal data after
+the end of the provision of Services and deletes existing copies unless
+Union or Member State law requires storage of the personal data.
 
 ## 10. Audit rights
 
@@ -130,21 +150,21 @@ remuneration for enabling Client inspections. Proof of the
 implementation of technical and organizational measures to comply with
 the obligations arising from this contract may be provided by:
 
-a)  Certification according to an approved certification procedure in
-    accordance with Art.42 GDPR;
-b)  Current auditor's certificates, reports or excerpts from reports
-    provided by independent bodies (e.g. auditor, Data Protection
-    Officer, IT security department, data privacy auditor, quality
-    auditor)
-c)  A relevant certification by IT security or data protection auditing
-    (e.g. according to IT Baseline Protection certification developed by
-    the [German](https://en.wikipedia.org/wiki/Germany) Federal Office
-    for Security in Information Technology (BSI)) or ISO/IEC).
-d)  Annual reports by Exoscale
+a) Certification according to an approved certification procedure in
+accordance with Art.42 GDPR;
+b) Current auditor's certificates, reports or excerpts from reports
+provided by independent bodies (e.g. auditor, Data Protection
+Officer, IT security department, data privacy auditor, quality
+auditor)
+c) A relevant certification by IT security or data protection auditing
+(e.g. according to IT Baseline Protection certification developed by
+the [German](https://en.wikipedia.org/wiki/Germany) Federal Office
+for Security in Information Technology (BSI)) or ISO/IEC).
+d) Annual reports by Exoscale
 
 ## Schedule 1: Exoscale Security Controls
 
-### Confidentiality 
+### Confidentiality
 
 **Physical Access Control**: physical access to facilities is guarded by
 24/7 staff performing identity controls, as well as automated mechanisms
@@ -179,9 +199,9 @@ visibility platform.
 
 **Availability control**:
 
-* Physical: redundant power, network and storage mitigate against
+- Physical: redundant power, network and storage mitigate against
   hardware issues leading to data unavailability or loss.
-* Logical: firewalling provides strong systems isolation. Online and
+- Logical: firewalling provides strong systems isolation. Online and
   offline backups are made to prevent accidental or wilful destruction
   or loss.
 
@@ -203,13 +223,13 @@ procedures.
 while ensuring the processing is done with the highest level of privacy
 protection:
 
-* Only a minimal set of data is processed, stored, or transferred over
+- Only a minimal set of data is processed, stored, or transferred over
   the wire.
-* Storage period is the shortest possible for the given data
+- Storage period is the shortest possible for the given data
   processed.
-* Access is as restricted as possible.
-* Encryption is used for all data access workloads.
-* Pseudonymization is generalized in the processing of Personal Data.
+- Access is as restricted as possible.
+- Encryption is used for all data access workloads.
+- Pseudonymization is generalized in the processing of Personal Data.
 
 **Order or Contact Control**: data processors are subject to clear and
 unambiguous contractual arrangements, formalized order management,
