@@ -30,15 +30,74 @@ designs, architecture, know-how, and any related Intellectual Property Rights
 throughout the world (whether owned by Client or licensed to Client from a third
 party).
 
-"**Users**" means any person or entity deriving use of the Services through
-Client including but not limited to the Client (its employees, consultants,
-contractors, and agents), an Affiliate of Client or a customer of Client.
+"**Data Act**" means Regulation (EU) 2023/2854 ('DA').
 
-"**Exoscale Service(s)**" or "**Service(s)**" means the
-Infrastructure-as-a-Service (IaaS) cloud computing services provided by Supplier
-to Client, namely an on-demand network access to a shared pool of configurable
-computing resources (such as virtualization, servers, storage, networking, and
-datacenter facilities), as further described in the Order.
+"**Data egress charges**" as defined in Article 2(35) Data Act. For easy
+reference: data transfer fees charged to Clients for extracting their data
+through the network from the ICT infrastructure of the Supplier of Data
+Processing Services to the system of a different Supplier or to on-premises ICT
+infrastructure;
+
+"**Data Processing Service**" as defined in Article 2(8) Data Act. For easy
+reference: a digital service that is provided to a Client and that enables
+ubiquitous and on-demand network access to a shared pool of configurable,
+scalable and elastic computing resources of a centralized, distributed or highly
+distributed nature that can be rapidly provisioned and released with minimal
+management effort or service Supplier interaction.
+
+For purposes of this Agreement, the said data processing services regard those
+provided or to be provided by Supplier to Client as agreed under the Agreement,
+not being Other Services;
+
+"**Destination Supplier**" as mentioned in Article 2(34) Data Act, means the
+destination Supplier of data processing services, whereby the Client changes
+from using the Data Processing Services from Supplier to using another data
+processing service of the same service type, or other service, offered by such
+different Supplier of data processing services, or to an on-premises ICT
+infrastructure, including through extracting, transforming and uploading the
+data;
+
+"**Digital assets**" defined in Article 2(32) Data Act. For easy reference:
+elements in digital form, including applications, for which the Client has the
+right of use, independently from the contractual relationship with the Data
+Processing Service it intends to switch from;
+
+"**Exportable data**" as defined in Article 2(38) Data Act. For easy reference:
+the input and output data, including metadata, directly or indirectly generated,
+or cogenerated, by the Client's use of the Data Processing Service, excluding
+any assets or data protected by intellectual property rights, or constituting a
+trade secret, of the Supplier or third parties;
+
+"**Maximum Notice Period** as defined in Article 25(2)(d) Data Act, and within
+that meaning further defined in the SCC Switching and Exit, as agreed between
+Parties under the Agreement;
+
+"**Mandatory Maximum Transitional Period** md as defined in Article 25(2)(a)
+Data Act, and within that meaning further defined in the SCC Switching and Exit,
+as agreed between Parties under the Agreement;
+
+"**Metadata** as defined in Article 2(2) Data Act . For easy reference: a
+structured description of the contents or the use of data facilitating the
+discovery or use of that data;
+
+"**Minimum Period of Data Retrieval**" as defined in Article 25(2)(g) Data Act,
+and within that meaning further defined in the SCC Switching and Exit, as agreed
+between Parties under the Agreement;
+
+"**Non-personal Data**" as defined in Article 2(4) Data Act. For easy reference:
+data other than Personal Data;
+
+"**On-premises ICT infrastructure**" as defined in Article 2(33) Data Act. For
+easy reference): ICT infrastructure and computing resources owned, rented or
+leased by the Client, located in the data centre of the Client itself and
+operated by the Client or by a third-party;
+
+"**Other Services**" means all professional services of whatever nature to be
+provided by Supplier to Client under the Agreement as defined therein, that are
+not Data Processing Services;
+
+"**Exoscale Service(s)**" or "**Service(s)**" means Data Processing Services, as
+further described in the Order.
 
 "**Force Majeure Event**" is any event beyond a Party's reasonable control,
 including, without limitation, acts of war, earthquake, hurricanes, flood, fire
@@ -108,7 +167,28 @@ network designs, know-how, business methods, and any related Intellectual
 Property Rights throughout the world (whether owned by Supplier or licensed to
 Supplier from a third party).
 
-"**Terms and Conditions**" mean these Exoscale Services Terms and Conditions.
+"**Switching**" as defined in Article 2(34) Data Act. For easy reference : the
+process involving the (source) Supplier, a Client of a data processing services
+and, where relevant, a destination Supplier of data processing services, whereby
+the Client of a data processing service changes from using one data processing
+service to using another data processing service of the same service type, or
+other service, offered by a different Supplier of data processing services, or
+to an on-premises ICT infrastructure, including through extracting, transforming
+and uploading the data;
+
+"**Switching**" means: the process involving the (source) Supplier, a Client of
+a data processing services and, where relevant, a destination Supplier of data
+processing services, whereby the Client of a data processing service changes
+from using one data processing service to using another data processing service
+of the same service type, or other service, offered by a different Supplier of
+data processing services, or to an on-premises ICT infrastructure, including
+through extracting, transforming and uploading the data;
+
+"**Switching charges**" means charges, other than standard service fees or early
+termination penalties, imposed by a Supplier of data processing services on a
+Client for the actions mandated by the Data Act for switching to the system of a
+different Supplier or to on-premises ICT infrastructure, including data egress
+charges.
 
 "**Unavailable**" means that Client is unable to access its subscribed resources
 running on the Exoscale Service platform due to failure of a critical component
@@ -116,6 +196,12 @@ of the Service (including virtual server, server instance, firewall, load
 balancer, switch, storage platform, and connectivity to Supplier Network
 Services (i.e. Internet and MPLS -- Multiprotocol Label Switching) from the
 Exoscale Service platform); and "**Unavailability**" means accordingly.
+
+"**Terms and Conditions**" mean these Exoscale Services Terms and Conditions.
+
+"**Users**" means any person or entity deriving use of the Services through
+Client including but not limited to the Client (its employees, consultants,
+contractors, and agents), an Affiliate of Client or a Client of Client.
 
 "**Website**" means the Exoscale Service website available at
 https://portal.exoscale.com.
@@ -619,12 +705,159 @@ future liability under that particular Order.
 
 ### 13.1 Term
 
-The exoscale Services will be provided on an indefinite-time basis and may be
+The Exoscale Services will be provided on an indefinite-time basis and may be
 terminated at any time (i) by Client upon a thirty (30) day prior written notice
 to Supplier or (ii) by Supplier upon a ninety (90) day prior written notice to
 Client.
 
-### 13.2 Termination or Suspension by either Party
+The Agreement shall be considered terminated upon the first occurrence of one of
+the following events, after which Supplier shall delete Client's Account and all
+Client Data thereunder and notify the Client accordingly:
+
+1.  upon the expiry of the Notice Period if the Client does not want to switch;
+    or
+
+2.  upon written confirmation that Client considers the Switching Process
+    complete; or
+
+3.  upon the expiry of the Transitional Period (including any extensions
+    thereof), unless a Retrieval Period was requested, in which case termination
+    shall occur upon the expiry of the Retrieval Period.
+
+### 13.2 Switching
+
+Before placing the order for the Data Processing Services, the Supplier has
+provided the Client with clear information about:
+
+1.  the standard service fees available at https://www.exoscale.com/pricing;
+
+2.  where applicable, early termination penalties and Switching Charges in
+    additional, Client-specific contracts;
+
+3.  an exhaustive specification of Categories of Data and Digital Assets that
+    can be transferred, including at a minimum all Exportable Data available at
+    https://www.exoscale.com/data-portability;
+
+4.  an exhaustive specification of categories of Data specific to the internal
+    functioning of the Supplier's Data Processing Service that will be exempted
+    from the obligation to export data where there is a risk of breach of the
+    Supplier's trade secrets available at
+    https://www.exoscale.com/data-portability.
+
+5.  the Suppliers 's on-line register with data structures and formats, relevant
+    standards and open interoperability specifications for Data available at
+    https://www.exoscale.com/data-portability.
+
+### 13.3 Initiation of the switching process
+
+The Client must give the Supplier a switching notice that it initiates the
+switching, observing the Notice Period. If the Client wishes to switch only with
+regard to certain Services, Data or Digital Assets, it must specify that in the
+notice. In such switching notice the Client may inform whether it intends:
+
+1.  to switch to a different Supplier of Data Processing Services. In this case
+    the Client should provide necessary details of the Destination Supplier;
+
+2.  to switch to an on-premises ICT infrastructure of the Client; or
+
+3.  not to switch but only erase their exportable Data and Digital Assets.
+
+The Supplier should confirm to the Client the receipt of the switching notice
+not later than within 3 working days using the same way of communication as the
+one used by the Client.
+
+### 13.3 Transitional Period
+
+When the Supplier cannot respect the agreed Transitional Period of one (1) month
+because this is not technically feasible, the Supplier undertakes to:
+
+1.  notify in writing including by adequate electronic means, the Client within
+    14 working days after receiving the notice for switching;
+
+2.  indicate an alternative Transitional Period, which must not exceed seven (7)
+    months from the date of the Client's switching notice; and
+
+3.  give proper justification for the technical unfeasibility.
+
+The Client should then confirm the receipt of such extension notice within 3
+working days.
+
+The Client may extend the Transitional Period once, for a period they consider
+more appropriate for their own purpose, for no longer than \[n months\]. In that
+case, the Client must notify the Supplier in writing, including by adequate
+electronic means, of their intention until the end of the original Transitional
+Period and indicate the alternative Transitional Period. The Supplier should
+confirm the receipt of such extension notice within 3 working days.
+
+### 13.4 Obligations of the Supplier during the switching process
+
+The Supplier undertakes to provide reasonable assistance to the Client and third
+parties authorized by the Client once the switching process starts and
+throughout its duration so that the Client can switch within the Mandatory
+Transitional Period. To this effect, the Supplier must:
+
+1.  provide capabilities, adequate information (including documentation
+    necessary to complete switching) and technical support. If problems are
+    detected, the Supplier and the Client will in good faith analyze the causes
+    and agree on solutions.
+
+2.  act with due care to maintain business continuity and continue to provide
+    the functions or services under the Agreement;
+
+3.  maintain a high level of security throughout the switching process for the
+    security of the data during their transfer;
+
+### 13.5 Client's obligations
+
+The Client undertakes to take all reasonable measures to achieve effective
+switching. The Client undertakes to be responsible for the import and
+implementation of Data and Digital Assets in their own systems or in the systems
+of the Destination Supplier.
+
+The Client or third parties authorized by them, including the Destination
+Supplier, undertake to respect the intellectual property rights of any materials
+provided in the switching process by the Supplier, as well as Supplier's trade
+secrets. The Client undertakes to provide access to and if necessary to
+sublicense the use of these materials to third parties or to the Destination
+Supplier only insofar as necessary to complete the switching process until the
+end of the agreed Transitional Period, including the alternative Transitional
+Period, respecting at the same time the confidentiality commitments, as well as
+the intellectual property rights granted by the Supplier.
+
+### 13.6 Data retrieval and erasure of data
+
+The Client can retrieve or erase their data during the agreed Period of Data
+Retrieval, which is 30 days.
+
+At the end of the agreed Retrieval Period, and if the switching process has been
+completed successfully, the Supplier undertakes to erase all Exportable Data and
+Digital Assets generated by the Client or related to the Client directly and
+confirm to the Client that it has done so, except for the personal Exportable
+Data which the Supplier is obligated to store under EU or local laws.
+
+### 13.7 Charges for the switching process and egress charges
+
+There are no charges to be paid by the Client for switching.
+
+### 13.8 Termination of the switching process
+
+As soon as the Client notifies the Supplier that the switching process is
+successfully completed, the Supplier undertakes to notify the Client immediately
+of the termination of the Agreement.
+
+If the Client does not notify the Supplier about successful switching or the
+lack thereof, while the Supplier has justified grounds to believe that the
+switching was successfully completed by the Client, the Supplier may send the
+Client the request for confirmation whether the successful switching took place.
+If the Client will not confirm successful switching within 30 working days from
+such request, it is deemed that the switching was not successful, and the
+Agreement will not be terminated and will continue on its existing terms.
+
+If the Client does not want to switch but to erase their Exportable Data and
+Digital Assets, at the end of the agreed Notice Period the Supplier undertakes
+to notify the Client of the termination of the Agreement.
+
+### 13.9 Termination or Suspension by either Party
 
 Either Party ("**Non-Defaulting Party**") may terminate and/or suspend the
 provision or the procurement of the Services upon written notice of termination
@@ -635,39 +868,28 @@ of written notice of breach from the Non-Defaulting Party; or (ii) any
 bankruptcy, insolvency, liquidation, receivership or winding up proceeding is
 commenced in respect of the other Party.
 
-### 13.3 Termination or Suspension by Supplier
+### 13.10 Termination or Suspension by Supplier
 
 Supplier shall have the right, upon written notice, to immediately terminate
 and/or suspend any Order(s) and/or the delivery of the Services (without
 liability) in the event that:
 
-- a)  Client has violated (i) any law rule, regulation or directive of any
-  Governmental Authority related to the Services or Client's or a User's use
-  thereof or (ii) Section 5 (Use of the Services); or
-- b)  Supplier receives any direction, notification or instruction from any
-  Governmental Authority (or any independent Internet content monitoring
-  entity) to suspend or terminate the provision of the Services to Client
-  (through no fault or negligence of Supplier).
+1.  Client has violated (i) any law rule, regulation or directive of any
+    Governmental Authority related to the Services or Client's or a User's use
+    thereof or (ii) Section 5 (Use of the Services); or
+2.  Supplier receives any direction, notification, or instruction from any
+    Governmental Authority (or any independent Internet content monitoring
+    entity) to suspend or terminate the provision of the Services to Client
+    (through no fault or negligence of Supplier).
 
-### 13.4 Supplier's Remedies
+### 13.11 Supplier's Remedies
 
 In the event Supplier terminates or suspends an Order because of any reasons set
 forth in Sections 13.2 or 13.3, then Client agrees to pay to Supplier the
 Service Fees and/or any other fixed minimum charges for the term of this
 Agreement.
 
-### 13.5 Return of Data
-
-Upon request of the Client notified at least thirty (30) days prior to
-termination of the Services, Supplier shall make Client Data available to Client
-in its original format through the exoscale recovery service, upon charge of a
-recovery service fee. Unless a request for the exoscale recovery service is
-made, Supplier shall have no obligation to maintain or provide any of Client
-Data after termination of the Services and shall thereafter, unless legally
-prohibited, delete all of Client Data in Supplier's systems or otherwise in
-Supplier's possession or under its control.
-
-### 13.6 Surviving Provisions
+### 13.12 Surviving Provisions
 
 Sections 3 (Fees and Payment Modalities), 7 (Proprietary Rights), 8
 (Confidentiality), 9.3 (Disclaimer of Warranties), 10 (Indemnification), 13
@@ -710,14 +932,14 @@ rights and be subject to the obligations set forth in this Agreement.
 Any notice shall be sent by a Party to the other Party by email, registered mail
 or courier, to the following address:
 
-#### a) To Supplier:
+#### To Supplier:
 
 Akenes SA Att. exoscale Manager Boulevard de Grancy 19A, 1006 Lausanne,
 Switzerland
 
 Email: manager@exoscale.ch
 
-#### b) To Client:
+#### To Client:
 
 at the address set forth in the Order(s) or at such other address as may
 hereafter be provided by Client.
