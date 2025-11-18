@@ -4,6 +4,7 @@ and other legally binding documents:
 * Terms and Conditions
 * End User Service Agreement
 * Data Processing Agreement
+* Exoscale GPU End User Certificate (EUC)
 
 The goal is for customers and observers to facilitate and track changes
 with full transparency.
