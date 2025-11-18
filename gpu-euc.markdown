@@ -19,7 +19,7 @@ Providing remote access to such GPUs via cloud services constitutes an
 
 ## Acknowledgement by Customer
 
-By digitally accepting this document the customer (“Customer”) 
+By digitally accepting this document the Customer 
 acknowledges and agrees as follows:
 
 ### 1. Prohibited Destinations
@@ -30,16 +30,15 @@ of the EAR, or any successor list, as published by the U.S. Bureau of Industry a
 
 The current list is available here:
 
-[https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740]
-(https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740)
+[https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740](https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740)
 
 Customer acknowledges that remote access from outside the United States,
 or by any foreign national, constitutes an “export” or “reexport” 
-under EAR. even when no physical item leaves the data center.
+under EAR, even when no physical item leaves the data center.
 
 Customer further acknowledges that exports, reexports, transfers 
 (in-country), and deemed exports are defined in 15 CFR Sections 
-734.13 - 734.15. Customer shall not use VPNs, proxies, or other 
+734.13–734.15. Customer shall not use VPNs, proxies, or other 
 technical measures to circumvent geo-restrictions, and agrees that
  Exoscale may implement geo-blocking/IP controls to enforce these 
 destination prohibitions.
@@ -74,7 +73,7 @@ nuclear, chemical, or biological weapons, or missile technology.
 Customer agrees not to transfer access credentials or resale rights for 
 Exoscale GPU instances to any other party without prior written consent 
 from Exoscale and compliance with EAR licensing requirements. No 
-sublicensing, sharing, or indirect provisions of access is permitted 
+sublicensing, sharing, or indirect provisions of access are permitted 
 without Exoscale’s written consent, and Customer shall not facilitate any 
 circumvention of these controls.
 
@@ -122,16 +121,15 @@ re-acceptance when these terms are updated.
 
 By accepting, the Customer certifies that the company’s headquarters 
 and its parent entities are **not located** in any country or territory listed 
-under of any **Country Group D:1, D:4, or D:5** of the EAR, or any 
+under any **Country Group D:1, D:4, or D:5** of the EAR, or any 
 successor list, as published by the U.S. Bureau of Industry and Security (BIS).
 
 The current list is available here:
 
-[https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740]
-(https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740)
+[https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740](https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740)
 
 Customer further certifies that no ultimate beneficial owner with 50 
-Percent or more aggregate ownership is located in any D:1, D:4, or D:5 
+percent or more aggregate ownership is located in any D:1, D:4, or D:5 
 country, and agrees to promptly notify Exoscale of any change to 
 headquarters or ultimate parent location.
 
@@ -156,4 +154,4 @@ legal advice.
 
 Customer should consult export‑controls counsel to confirm applicability 
 to its specific use cases and jurisdictions. Advanced computing rules are 
-evolving, and the citations herein reflect current EAR structure.
+evolving, and the citations herein reflect the current EAR structure.
