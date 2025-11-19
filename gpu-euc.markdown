@@ -1,5 +1,3 @@
-# **Exoscale GPU End User Certificate (EUC)**
-
 For Compliance with U.S. Export Administration Regulations (EAR)
 
 **Effective Date:** 1st December 2025
