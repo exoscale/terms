@@ -84,7 +84,7 @@ Client is responsible for ensuring its own compliance and the
 compliance of its users, contractors, and affiliates with these
 requirements.
 
-### 6. Right to audit and Suspend Access**
+### 6. Right to audit and Suspend Access
 
 Exoscale reserves the right to suspend or terminate service access
 immediately if it has reason to believe that Client or its affiliates
@@ -96,7 +96,7 @@ appears required or where Exoscale in good faith, identifies elevated
 export/sanctions risk. Client agrees to cooperate with Exoscale’s
 compliance inquiries and to furnish the requested information promptly.
 
-### 7. Digital Certification and Record Keeping**
+### 7. Digital Certification and Record Keeping
 
 By clicking **“Read and Accept”** in the Exoscale Compliance Center,
 the Client certifies that:
