@@ -21,8 +21,8 @@ acting in the course of business) so named on the Order.
 
 "**Client Data**" means any data (including but not limited to any software
 application) stored by Client on the cloud infrastructure provided by Supplier,
-including all text, pictures, sound, video, and log files and all documentation
-(printed or electronic).
+including all text, pictures, sound, video, and log files and all
+documentation (printed or electronic).
 
 "**Client Technology**" means Client's proprietary technology, including without
 limitation, algorithms, software (in source and object codes), user interface
@@ -43,11 +43,10 @@ reference: a digital service that is provided to a Client and that enables
 ubiquitous and on-demand network access to a shared pool of configurable,
 scalable and elastic computing resources of a centralized, distributed or highly
 distributed nature that can be rapidly provisioned and released with minimal
-management effort or service Supplier interaction.
-
-For purposes of this Agreement, the said data processing services refer to those
-provided or to be provided by Supplier to Client as agreed under the Agreement,
-not being Other Services;
+management effort or service Supplier interaction. For purposes of this
+Agreement, the said data processing services refer to those provided or to be
+provided by Supplier to Client as agreed under the Agreement, not being Other
+Services;
 
 "**Destination Supplier**" as mentioned in Article 2(34) Data Act, means the
 destination Supplier of data processing services, whereby the Client changes
@@ -113,11 +112,9 @@ apply for protection of any of the above rights.
 "**Malicious Code**" means viruses, worms, time bombs, Trojan horses and other
 harmful or malicious code, files, scripts, agents or programs.
 
-"**Non-Exoscale Applications**" means online applications and offline
-
-software products that are provided by entities or individuals other than
-Supplier and are clearly identified as such, and that interoperate with the
-Services.
+"**Non-Exoscale Applications**" means online applications and offline software
+products that are provided by entities or individuals other than Supplier and
+are clearly identified as such, and that interoperate with the Services.
 
 "**Notice Period**" shall mean the period of time, during which the Client must
 give prior written notice of its intention not to continue the Services or to
@@ -655,10 +652,12 @@ disclose the Disclosing Party's Confidential Information as part of a civil
 proceeding to which the Disclosing Party is a party, and the Disclosing Party is
 not contesting the disclosure, the Disclosing Party will reimburse the Receiving
 Party for its reasonable cost of compiling and providing secure access to such
-Confidential Information. If Client believes that, in the course of providing
-Services under these Terms and Conditions, Supplier will have access to data
-Client does not want Supplier to comprehend, Client should encrypt such data so
-that it will be unintelligible.
+Confidential Information.
+
+If Client believes that, in the course of providing Services under these Terms
+and Conditions, Supplier will have access to data Client does not want Supplier
+to comprehend, Client should encrypt such data so that it will be
+unintelligible.
 
 Notwithstanding anything to the contrary herein, the provisions of Section 11
 "Publicity" remain applicable.
@@ -721,8 +720,8 @@ indemnity obligations set out herein.
 
 ### 10.3 Limitation of Liability
 
-Supplier\'s aggregate liability for damages arising out of or in connection with
-this Agreement shall not exceed the amounts paid by Client for the specific
+Supplier's aggregate liability for damages arising out of or in connection with
+this Agreement shall not exceed the amount paid by Client for the specific
 Service that gave rise to the liability during the twelve (12) months preceding
 the event giving rise to the claim. The foregoing shall not limit Client's
 payment obligations under Section 3.
@@ -815,7 +814,7 @@ receipt of the switching notice:
 
 * (a) notify the Client in writing, including by electronic means;
 
-* (b) provide an alternative Transitional Period, which shall not exceed seven 
+* (b) provide an alternative Transitional Period, which shall not exceed seven
   (7) months from the date of the switching notice; and
 
 * (c) provide a reasoned technical justification for such infeasibility.
@@ -823,14 +822,14 @@ receipt of the switching notice:
 The Client shall confirm the receipt of such extension notice within three (3)
 working days.
 
-#### 13.3.3 Client -- Requested Extension
+#### 13.3.3 Client Requested Extension
 
 The Client may request one (1) extension of Transitional Period, for a duration
 not exceeding, seven (7) months, by notifying the Supplier in writing, including
 by adequate electronic means of their intention, before the expiry of the
 original transitional period.
 
-The Supplier shall confirm the receipt of such extension notice within three (3)
+Supplier shall confirm the receipt of such extension notice within three (3)
 working days.
 
 ### 13.4 Obligations of the Supplier during the switching process
@@ -839,7 +838,7 @@ During the switching process, the Supplier shall provide reasonable and
 proportionate assistance, limited to what is technically necessary to enable
 switching within the applicable transitional period.
 
-The Supplier shall:
+Supplier shall:
 
 * (a) make available existing technical capabilities and documentation necessary
   to complete switching, without creating new tools or custom developments;
@@ -864,7 +863,7 @@ In particular, the Client shall:
   Supplier.
 
 * (b) ensure that any third party involved in the switching process, including
-  the destination supplier, complies with the Supplier's intellectual property,
+  the destination supplier, complies with Supplier's intellectual property,
   confidentiality rights, and trade secrets;
 
 * (c) use any Supplier-provided materials solely for the purpose of switching
@@ -878,8 +877,8 @@ the transitional period. Upon expiry of the data retrieval period, and provided
 the switching process has been completed, the Supplier shall erase all
 Exportable Data and Digital Assets generated by the Client or related to the
 Client directly, except where retention is required under Swiss, European Union
-or Member State law. The Supplier shall confirm the completion of such erasure
-upon request.
+or Member State law. Supplier shall confirm the completion of such erasure upon
+request.
 
 ### 13.7 Termination of the switching process
 
@@ -937,7 +936,18 @@ forth in Sections 13.2 or 13.3, then Client agrees to pay to Supplier the
 Service Fees and/or any other fixed minimum charges for the term of this
 Agreement.
 
-### 13.11 Surviving Provisions
+### 13.11 Return of Data
+
+Upon request of the Client notified at least thirty (30) days prior to
+termination of the Services, Exoscale shall make Client Data available to Client
+in its original format through the Exoscale recovery service, upon charge of a
+recovery service fee. Unless a request for the Exoscale recovery service is
+made, Exoscale shall have no obligation to maintain or provide any of Client
+Data after termination of the Services and shall thereafter, unless legally
+prohibited, delete all of Client Data in Exoscale's systems or otherwise in
+Exoscale's possession or under its control.
+
+### 13.12 Surviving Provisions
 
 Sections 3 (Fees and Payment Modalities), 7 (Proprietary Rights), 8
 (Confidentiality), 9.3 (Disclaimer of Warranties), 10 (Indemnification), 13
@@ -980,14 +990,14 @@ rights and be subject to the obligations set forth in this Agreement.
 Any notice shall be sent by a Party to the other Party by email, registered mail
 or courier, to the following address:
 
-#### To Supplier:
+To Supplier:
 
 Akenes SA Att. Exoscale Manager Boulevard de Grancy 19A, 1006 Lausanne,
 Switzerland
 
 Email: manager@exoscale.com
 
-#### To Client:
+o Client:
 
 at the address set forth in the Order(s) or at such other address as may
 hereafter be provided by Client.
