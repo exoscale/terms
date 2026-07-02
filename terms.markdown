@@ -1,7 +1,7 @@
 These Terms and Conditions govern the Order(s) entered into between Client and
 Supplier for the provision of Exoscale Services. Client and Supplier are
 hereinafter referred to individually as a "**Party**" and collectively, as the
-"**Parties**". Applicable starting July 1st, 2026
+"**Parties**". Applicable starting July 2nd, 2026
 
 ## 1. Definitions
 
@@ -932,7 +932,7 @@ liability) in the event that:
 ### 13.10 Supplier's Remedies
 
 In the event Supplier terminates or suspends an Order because of any reasons set
-forth in Sections 13.2 or 13.3, then Client agrees to pay to Supplier the
+forth in Sections 13.8 or 13.9, then Client agrees to pay to Supplier the
 Service Fees and/or any other fixed minimum charges for the term of this
 Agreement.
 
@@ -950,7 +950,7 @@ Exoscale's possession or under its control.
 ### 13.12 Surviving Provisions
 
 Sections 3 (Fees and Payment Modalities), 7 (Proprietary Rights), 8
-(Confidentiality), 9.3 (Disclaimer of Warranties), 10 (Indemnification), 13
+(Confidentiality), 9.3 (Exclusion of other Warranties), 10 (Indemnification), 13
 (Term and Termination), 14 (Miscellaneous Provisions) shall survive any
 termination or expiration of this Agreement.
 
@@ -990,14 +990,14 @@ rights and be subject to the obligations set forth in this Agreement.
 Any notice shall be sent by a Party to the other Party by email, registered mail
 or courier, to the following address:
 
-To Supplier:
+**To Supplier**:
 
 Akenes SA Att. Exoscale Manager Boulevard de Grancy 19A, 1006 Lausanne,
 Switzerland
 
 Email: manager@exoscale.com
 
-o Client:
+**To Client**:
 
 at the address set forth in the Order(s) or at such other address as may
 hereafter be provided by Client.

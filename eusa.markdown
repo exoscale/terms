@@ -9,7 +9,7 @@ below, Use Rights, Service Level Agreement (SLA), and all documents referenced
 therein (collectively, the "Agreement"). The Agreement becomes effective on the
 date the Authorized Partner provides the Subscription.
 
-Applicable starting February 1st, 2026
+Applicable starting July 2nd, 2026
 
 [Previous version](https://github.com/exoscale/terms/blob/master/eusa-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master/terms.markdown)
@@ -21,6 +21,12 @@ with Exoscale and which is entitled to resell or distribute the Products and
 Services of Exoscale to Clients. "Client" means the entity (company,
 partnership, organization or sole trader acting in the course of business) so
 named on the Order.
+
+"**Application Programming Interface (API)**" means the Exoscale Service
+programmable interfaces listed at https://community.exoscale.com/reference/api.
+
+"**Client**" means the entity (company, partnership, organization or sole trader
+acting in the course of business) so named on the Order.
 
 "**Client Data**" means any data (including but not limited to any software
 application) stored by Client on the cloud infrastructure provided by Exoscale,
@@ -47,7 +53,7 @@ network designs, know-how, business methods, and any related Intellectual
 Property Rights throughout the world (whether owned by Exoscale or licensed to
 Exoscale from a third party).
 
-"**EUSA**" mean this Exoscale End User Service Agreement.
+"**EUSA**" means this Exoscale End User Service Agreement.
 
 "**Users**" means any individual or entity deriving use of the Services through
 Client including but not limited to the Client (its employees, consultants,
@@ -57,8 +63,8 @@ contractors, and agents), an Affiliate of Client or a customer of Client.
 
 "**Data Egress Charges**" as defined in Article 2(35) Data Act. For easy
 reference: data transfer fees charged to Clients for extracting their data
-through the network from the ICT infrastructure of Supplier of Data Processing
-Services to the system of a different Supplier or to on-premises ICT
+through the network from the ICT infrastructure of the Supplier of Data
+Processing Services to the system of a different Supplier or to on-premises ICT
 infrastructure;
 
 "**Data Processing Service**" as defined in Article 2(8) Data Act. For easy
@@ -84,7 +90,7 @@ elements in digital form, including applications, for which the Client has the
 right of use, independently from the contractual relationship with the Data
 Processing Service it intends to switch from;
 
-"**Exportable data**" as defined in Article 2(38) Data Act. For easy reference:
+"**Exportable Data**" as defined in Article 2(38) Data Act. For easy reference:
 the input and output data, including metadata, directly or indirectly generated,
 or cogenerated, by the Client's use of the Data Processing Service, excluding
 any assets or data protected by intellectual property rights, or constituting a
@@ -143,23 +149,20 @@ are clearly identified as such, and that interoperate with the Services.
 give prior written notice of its intention not to continue the Services or to
 switch to another provider, before termination takes effect.
 
-"Order" means the order within the active subscription submitted by Client to
-Exoscale (for example via the Exoscale Portal), setting out matters relating to
-Exoscale's delivery of Services to Client.
+"**Order**" means the order within the active subscription submitted by Client
+to Exoscale via the Exoscale Portal, or through the Application Programing
+Interface (API), setting out matters relating to Exoscale's delivery of Services
+to Client.
 
 "**Personal Information**" means any information relating to a natural person as
 defined by the applicable law that may be used to identify an individual.
-
-"**Service Commencement Time**" means (i) the time Exoscale commences providing
-the Services as notified by Exoscale to Client; or (ii) the time Client begins
-using the Services, whichever date is earlier.
 
 "**Services Fees**" means charges for the Services (including but not limited to
 monthly recurring charges and non-recurring charges) as identified in the
 relevant Order.
 
 "**Service Level Agreement**" or "**SLA**" means the service level provisions
-describing the service level targets as set out in Section 4.
+describing the service level targets as set out in Section 3.
 
 "**Software**" means any software application provided by Exoscale which Client
 may be entitled to use in accordance with any Order.
@@ -198,13 +201,13 @@ Charges.
 its subscribed Exoscale Service due to failure of a critical component of the
 Service (including virtual server, server instance, firewall, load balancer,
 switch, storage platform, and connectivity to Exoscale Network Services (i.e.
-Internet and MPLS – Multiprotocol Label Switching) from the Exoscale Service
+Internet and MPLS –- Multiprotocol Label Switching) from the Exoscale Service
 platform) and due to failures of hard- and software-components controlled by
 Exoscale.
 
 "**Web Portal**" means the Web Portal available at https://portal.exoscale.com.
 
-## 2. The Services – Subscription and Ordering
+## 2. The Services –- Subscription and Ordering
 
 The Client is required to select and maintain an Authorized Partner that is
 approved within the applicable region. In the event that either Exoscale or an
@@ -535,7 +538,7 @@ If Client believes that, in the course of providing Services under this EUSA,
 Exoscale will have access to data Client does not want Exoscale to comprehend,
 Client should encrypt such data so that it will be unintelligible.
 
-Notwithstanding anything to the contrary herein, the provisions of Section 11
+Notwithstanding anything to the contrary herein, the provisions of Section 10
 "Publicity" remain applicable.
 
 ## 8. Warranties
@@ -627,32 +630,9 @@ Majeure Event, then either Party may cancel the affected Order upon written
 notice to the other Party, and both Parties shall be released from any further
 future liability under that particular Order.
 
-## 12. Term and Termination
+## 12. Switching
 
-### 12.1 Term
-
-The Exoscale Services will be provided on an indefinite-time basis and may be
-terminated at any time (i) by Client upon a thirty (30) days prior written
-notice to Exoscale or (ii) by Exoscale upon a hundred and eighty (180) days
-prior written notice to Client.
-
-The Agreement shall be considered terminated upon the first occurrence of one of
-the following events, after which Exoscale shall delete Client's Account and all
-Client Data thereunder and notify the Client accordingly:
-
-* (a) upon the expiry of the Notice Period if the Client does not want to
-  switch; or
-
-* (b) upon written confirmation that Client considers the Switching Process
-  complete; or
-
-* (c) upon the expiry of the Transitional Period (including any extensions
-  thereof), unless a Retrieval Period was requested, in which case termination
-  shall occur upon the expiry of the Retrieval Period.
-
-### 12.2 Switching
-
-### 12.2.1 Initiation of the switching process
+### 12.1 Initiation of the switching process
 
 The Client may initiate the switching process by submitting a written switching
 notice to Exoscale, in accordance with the applicable Notice Period.
@@ -668,20 +648,20 @@ In the switching notice, the Client shall indicate whether it intends to:
 
 * (b) switch to an on-premises ICT infrastructure operated by the Client; or
 
-* (c) not to switch Supplier but only erase their exportable Data and Digital
+* (c) not to switch Supplier but only erase their Exportable Data and Digital
   Assets.
 
 Exoscale shall confirm the receipt of the switching notice within three (3)
 working days, using the same communication channel used by the Client.
 
-### 12.3 Transitional Period
+### 12.2 Transitional Period
 
-#### 12.3.1 Standard Transitional Period
+#### 12.2.1 Standard Transitional Period
 
 The standard transitional period for switching shall be one (1) month from
 receipt of the switching notice, unless otherwise agreed.
 
-#### 12.3.2 Technical Infeasibility
+#### 12.2.2 Technical Infeasibility
 
 Where completion within the standard transitional period of one (1) month is
 technically infeasible, Exoscale shall, within fourteen (14) working days of
@@ -697,7 +677,7 @@ receipt of the switching notice:
 The Client shall confirm the receipt of such extension notice within three (3)
 working days.
 
-#### 12.3.3 Client Requested Extension
+#### 12.2.3 Client Requested Extension
 
 The Client may request one (1) extension of Transitional Period, for a duration
 not exceeding, seven (7) months, by notifying Exoscale in writing, including by
@@ -778,7 +758,9 @@ Exportable Data and Digital Assets, the Agreement shall terminate at the end of
 the applicable Notice Period. Exoscale shall notify the Client of such
 termination.
 
-### 12.8 Termination or Suspension by either Party
+## 13 Termination or Suspension
+
+### 13.1 Termination or Suspension by either Party
 
 Either Party ("**Non-Defaulting Party**") may terminate and/or suspend the
 provision or the procurement of the Services upon written notice of termination
@@ -789,7 +771,7 @@ of written notice of breach from the Non-Defaulting Party; or (ii) any
 bankruptcy, insolvency, liquidation, receivership or winding up proceeding is
 commenced in respect of the other Party.
 
-### 12.9 Termination or Suspension by Exoscale
+### 13.2 Termination or Suspension by Exoscale
 
 Exoscale shall have the right, upon written notice, to immediately terminate
 and/or suspend any Order(s) and/or the delivery of the Services (without
@@ -797,7 +779,7 @@ liability) in the event that:
 
 * (a) Client has violated (i) any law rule, regulation or directive of any
   Governmental Authority related to the Services or Client's or a User's use
-  thereof or (ii) Section 5 (Use of the Services); or
+  thereof or (ii) Section 4 (Use of the Services); or
 
 * (b) Exoscale receives any direction, notification or instruction from any
   Governmental Authority (or any independent Internet content monitoring entity)
@@ -805,20 +787,21 @@ liability) in the event that:
   (through no fault or negligence of Exoscale).
 
 * (c) Exoscale receives a request from the Authorized Partner according to the
-  terms agreed between the Client and its Authorized Partner. In the event
-  Exoscale terminates or suspends an Order because of any reasons set forth in
-  Sections 12, then Client agrees to pay to Authorized Partner the Service fees
-  and/or any other fixed minimum charges for the term of the
-  Subscription/respective Order.
+  terms agreed between the Client and its Authorized Partner.
 
-### 12.10 Supplier's Remedies
+In the event Exoscale suspends an Order because of any reasons set forth in
+Sections 11, then Client agrees to pay to Authorized Partner the Service fees
+and/or any other fixed minimum charges for the term of the
+Subscription/respective Order.
 
-In the event Supplier terminates or suspends an Order because of any reasons set
-forth in Sections 13.2 or 13.3, then Client agrees to pay to Supplier the
+### 13.2 Exoscale's Remedies
+
+In the event Exoscale terminates or suspends an Order because of any reasons set
+forth in Sections 13.1 or 13.2, then Client agrees to pay to Exoscale the
 Service Fees and/or any other fixed minimum charges for the term of this
 Agreement.
 
-### 12.11 Return of Data
+### 13.3 Return of Data
 
 Upon request of the Client notified at least thirty (30) days prior to
 termination of the Services, Exoscale shall make Client Data available to Client
@@ -829,15 +812,16 @@ after termination of the Services and shall thereafter, unless legally
 prohibited, delete all of Client Data in Exoscale's systems or otherwise in
 Exoscale's possession or under its control.
 
-### 12.12 Surviving Provisions
+### 14 Surviving Provisions
 
-Sections 6 (Proprietary Rights), 7 (Confidentiality), 8.3 (Disclaimer of
-Warranties), 9 (Indemnification), 12 (Termination), 13 (Miscellaneous
-Provisions) shall survive any termination or expiration of this Agreement.
+Sections 6 (Proprietary Rights), 7 (Confidentiality), 8.3 (Exclusion of other
+Warranties), 9 (Indemnification), 12 (Switching), 13 (Suspension or Termination
+by Exoscale), 15 (Miscellaneous Provisions) shall survive any termination or
+expiration of this Agreement.
 
-## 13. Miscellaneous Provisions
+## 15. Miscellaneous Provisions
 
-### 13.1 Severability; No Waiver
+### 15.1 Severability; No Waiver
 
 The invalidity, illegality or unenforceability of any provision of this
 Agreement shall in no way affect the validity, legality or enforceability of any
@@ -850,7 +834,7 @@ Agreement shall not be deemed to be a waiver of the application of such
 provision or of a right nor to operate so as to bar the exercise or enforcement
 of any such provision or right on any later occasion.
 
-### 13.2 Assignment and Successors
+### 15.2 Assignment and Successors
 
 Neither Party may assign an Order without first obtaining the other Party's
 written consent; except that, however, Exoscale may assign any Order(s) to an
@@ -866,30 +850,30 @@ as a condition precedent to the closing of any such transaction, it shall ensure
 that the surviving entity of any such transaction shall expressly assume the
 rights and be subject to the obligations set forth in this Agreement.
 
-### 13.3 Notice
+### 15.3 Notice
 
 Any notice shall be sent by a Party to the other Party by email, registered mail
 or courier, to the following address:
 
-To Exoscale:
+**To Supplier**:
 
 Akenes SA Att. Exoscale Manager Boulevard de Grancy 19A, 1006 Lausanne,
 Switzerland
 
 Email: manager@exoscale.com
 
-To Client:
+**To Client**:
 
 at the address set forth in the Order(s) or at such other address as may
 hereafter be provided by Client.
 
-### 13.4 Relationship of Parties
+### 15.4 Relationship of Parties
 
 Exoscale and Client are independent contractors and this EUSA and Conditions
 will not establish any relationship of partnership, joint venture, employment,
 franchise or agency between Exoscale and Client.
 
-### 13.5 Amendments
+### 15.5 Amendments
 
 Exoscale may modify this EUSA upon a thirty (30) day notice to Client.
 
@@ -900,7 +884,7 @@ Upon receipt of such notice, Client may terminate the affected Service by
 delivering a written notice of termination, at the latest by the time the change
 is effective.
 
-### 13.6 Code of Conduct
+### 15.6 Code of Conduct
 
 As a subsidiary of the A1 Telekom Austria Group, Exoscale adheres to the A1
 Group Code of Conduct.
@@ -925,7 +909,7 @@ and regulations of the A1 Group Code of Conduct, and are committed to
 incorporating these guidelines into the daily operations as a fundamental aspect
 of their professional responsibilities.
 
-### 13.7 Governing Law; Jurisdiction
+### 15.7 Governing Law; Jurisdiction
 
 **This EUSA and any Order shall be governed by the laws of Switzerland. The
 Parties irrevocably submit to the exclusive jurisdiction of the courts of the
