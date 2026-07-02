@@ -3,7 +3,7 @@ into between Client and Supplier for the provision of IaaS Cloud
 Computing Services. Supplier and Client are hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
 
-Applicable starting May 25th, 2018
+Applicable starting January 16th, 2019
 [Previous version](https://github.com/exoscale/terms/blob/master/terms-previous.markdown)
 [Compare](https://github.com/exoscale/terms/commits/master)
 
@@ -97,7 +97,7 @@ provisions describing the service level targets as set out in Section 4.
 "**Software**" means any software application provided by Supplier which
 Client may be entitled to use in accordance with any Order.
 
-"**Supplier**" means Akenes SA, Route de Marcolet 39, 1023 Crissier,
+"**Supplier**" means Akenes SA, Boulevard de Grancy 19A, 1006 Lausanne,
 Switzerland.
 
 "**Supplier Network**" means the telecommunication network, including
@@ -259,10 +259,10 @@ except for:
 - Unavailability of the Website;
 
 - Failures or malfunctions in any Client software, equipment or
-technology; and/or
+  technology; and/or
 
 - If Client is in breach of these Terms and Conditions, including but
-not limited to its payment obligations and the use of Services.
+  not limited to its payment obligations and the use of Services.
 
 ### 4.2 Incident Management Service Levels
 
@@ -284,23 +284,23 @@ The platform usage support shall be free of charge.
 
 ### 4.4 Service Unavailability Credit
 
-Except under the conditions mentioned in the section 4.1 above, 
-if the Services Availability is less than 99.95%, the Supplier will 
+Except under the conditions mentioned in the section 4.1 above,
+if the Services Availability is less than 99.95%, the Supplier will
 issue a credit to Client according to the following table:
 
-- From 99.95% to 98.3% : fifty percent (50%) of the monthly 
-Service Fees for the affected Services
-- Below 98.3% : one hundred percent (100%) of the monthly 
-Service Fees for the affected Services
+- From 99.95% to 98.3% : fifty percent (50%) of the monthly
+  Service Fees for the affected Services
+- Below 98.3% : one hundred percent (100%) of the monthly
+  Service Fees for the affected Services
 
-The credit will be calculated based on the monthly service charge 
-for the affected Services. The Client shall address a Service 
-Unavailability Credit request within ten (10) business days via 
-email to sales@exoscale.ch mentioning the Client name and address 
-as well as the times and dates of the unavailability. If the 
-unavailability is confirmed by the Supplier, credits will be applied 
-within two billing cycles after Supplier’s receipt of Client’s 
-credit request. Credits are not refundable and can be used only 
+The credit will be calculated based on the monthly service charge
+for the affected Services. The Client shall address a Service
+Unavailability Credit request within ten (10) business days via
+email to sales@exoscale.ch mentioning the Client name and address
+as well as the times and dates of the unavailability. If the
+unavailability is confirmed by the Supplier, credits will be applied
+within two billing cycles after Supplier’s receipt of Client’s
+credit request. Credits are not refundable and can be used only
 towards future billing charges.
 
 
@@ -321,7 +321,7 @@ connection with Client support matters.
 
 ### 5.1.2 Sub-contractors
 
-Supplier may engage sub-contractors to fulfil its contractual obligations.
+Supplier may engage sub-contractors to fulfill its contractual obligations.
 Supplier will obtain the sub-contractor's written confirmation that the
 sub-contractor complies with the provisions of data protection law.
 
@@ -331,9 +331,9 @@ sub-contractor complies with the provisions of data protection law.
 Client acknowledges and agrees that Supplier shall not be responsible
 for any Data stored by Client using the Services. Notwithstanding the
 above, Client may copy such Data using the Services to a separate
-location at any time. The Data stored by Client in Switzerland shall 
+location at any time. The Data stored by Client in Switzerland shall
 at all times be stored solely in Switzerland. Likewise, data stored
-by Client in another non-Swiss Exoscale location shall remain at all 
+by Client in another non-Swiss Exoscale location shall remain at all
 times in the same country as the base location.
 
 Because the Internet is an inherently open and insecure means of
@@ -794,7 +794,7 @@ registered mail or courier, to the following address:
 
 Akenes SA
 Att. exoscale Manager
-Route de Marcolet 39, 1023 Crissier, Switzerland
+Boulevard de Grancy 19A, 1006 Lausanne, Switzerland
 
 
 Email: manager@exoscale.ch
