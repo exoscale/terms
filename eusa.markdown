@@ -10,7 +10,7 @@ Agreement (SLA), and all documents referenced therein (collectively, the
 "**Agreement**"). The Agreement becomes effective on the date the Authorized
 Partner provides the Subscription.
 
-Applicable starting August 15^th^, 2016.
+Applicable starting August 15^th^, 2026.
 
 ## **1. Definitions**
 
