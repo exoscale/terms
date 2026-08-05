@@ -1,7 +1,3 @@
----
-title: Exoscale End User Service Agreement (EUSA) 
----
-
 Applicable between Akenes SA (trading as Exoscale) and Client for Exoscale
 Services purchased from an Authorized Partner, hereinafter referred to
 individually as a "**Party**" and collectively, as the "**Parties**".
@@ -229,16 +225,16 @@ available at https://www.exoscale.com/sla/.
 Exoscale shall use commercially reasonable efforts to meet the Product-Specific
 Service Level Agreements, except for:
 
-(a) Planned downtime and maintenance events;
+- Planned downtime and maintenance events;
 
-(b) Force Majeure Events;
+- Force Majeure Events;
 
-(c) Unavailability of the Web Portal;
+- Unavailability of the Web Portal;
 
-(d) Failures or malfunctions in any Client software, equipment or technology;
+- Failures or malfunctions in any Client software, equipment or technology;
   and/or
 
-(e) If Client is in breach of these EUSA, including but not limited to its payment
+- If Client is in breach of these EUSA, including but not limited to its payment
   obligations against the Authorized Partner and the use of Services.
 
 ### 3.2 Service Unavailability Credit
@@ -643,7 +639,11 @@ In the Switching notice, the Client shall indicate whether it intends to:
 the Client shall provide the necessary identification details of the
 Destination Supplier;
 
+<!-- -->
+
 (b) switch to an On-premises ICT infrastructure operated by the Client; or
+
+<!-- -->
 
 (c) not to switch supplier but only erase their Exportable Data and Digital
 Assets.
@@ -666,8 +666,15 @@ receipt of the switching notice:
 
 (a) notify the Client in writing, including by electronic means;
 
-(b) provide an alternative transitional period, which shall not exceed seven (7) 
-months from the date of the switching notice; and
+<!-- -->
+
+(b) provide an alternative transitional period, which shall not exceed seven
+
+<!-- -->
+
+(7) months from the date of the switching notice; and
+
+<!-- -->
 
 (c) provide a reasoned technical justification for such infeasibility.
 
@@ -695,8 +702,12 @@ Exoscale shall:
 (a) make available existing technical capabilities and documentation necessary
 to complete Switching, without creating new tools or custom developments;
 
+<!-- -->
+
 (b) maintain continuity of the Services in accordance with the Agreement during
 switching process; and
+
+<!-- -->
 
 (c) apply appropriate security measures to protect data during transfer.
 
@@ -714,9 +725,13 @@ In particular, the Client shall:
 Data and Digital Assets in its own systems or those of the Destination
 Supplier.
 
+<!-- -->
+
 (b) ensure that any third party involved in the switching process, including the
 Destination Supplier, complies with Exoscale's intellectual property,
 confidentiality rights, and trade secrets; and
+
+<!-- -->
 
 (c) use any Exoscale-provided materials solely for the purpose of Switching and
 only for the duration of the applicable transitional period.
@@ -765,10 +780,14 @@ liability) in the event that:
 Governmental Authority related to the Services or Client's or a User's use
 thereof or (ii) Section 4 (Use of the Services); or
 
+<!-- -->
+
 (b) Exoscale receives any direction, notification or instruction from any
 Governmental Authority (or any independent Internet content monitoring
 entity) to suspend or terminate the provision of the Services to Client
 (through no fault or negligence of Exoscale);
+
+<!-- -->
 
 (c) Exoscale receives a request from the Authorized Partner according to the
 terms agreed between the Client and its Authorized Partner.
